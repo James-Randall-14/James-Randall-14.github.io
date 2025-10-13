@@ -1,0 +1,28 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+2		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+3		Finally	Swedish House Mafia Alicia Keys	Finally		131.00	     	03:35	4A	2025-04-07
+4		Siren	Tourist	Siren		127.72	     	06:22	4A	2025-04-07
+5		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+6		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+7		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+8		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+9		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+10		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+11		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+12		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+13		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+14		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+15		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+16		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+17		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+18		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+19		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+20		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+21		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+22		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+23		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+24		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+25		Rigid	Rosa Anschütz	Rr4		135.00	     	06:53	12A	2025-02-05
+26		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+27		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03

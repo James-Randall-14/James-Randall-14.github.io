@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+2		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+3		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+4		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+5		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+6		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19

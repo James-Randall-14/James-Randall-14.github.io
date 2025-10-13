@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Lost	Octaviou	Night in the Woods		136.00	     	06:29	11A	2025-01-03
+2		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+3		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+4		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+5		Rigid	Rosa Anschütz	Rr4		135.00	     	06:53	12A	2025-02-05
+6		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+7		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12

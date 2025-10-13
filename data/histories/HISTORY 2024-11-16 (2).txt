@@ -1,0 +1,44 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+2		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+3		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+4		Concrete Bench	Ternion Sound	Digital Artifice		140.00	     	03:41	4A	2024-11-11
+5		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+6		Last Time (Jon Hopkins Remix)	Moderat	Last Time	Electronic	147.00	     	05:56	7A	2024-11-11
+7		Adagio For Strings (CRAAIG Hard Edit)				154.00	     	06:15	7B	2024-11-16
+8		Instructions for Time Travel (Recue Remix)	Robot Koch Savannah Jo Lack	Particle Fields Reimagined	Trip Hop	132.00	     	05:45	7A	2024-11-11
+9		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+10		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+11		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+12		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+13		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+14		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+15		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11
+16		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11
+17		Ibitbt	3l3d3p	Ibitbt - Single		170.00	     	02:24	12B	2024-11-17
+18		through the light	dracodraco	through the light	Dance	165.00	     	01:36	4B	2024-11-17
+19		Insomnia	Montee	ONU	Dance	172.00	     	03:57	3A	2024-11-11
+20		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+21		M3 N Min3	Femtanyl & Danny Brown	M3 N Min3 - Single		150.00	     	02:11	11A	2024-11-17
+22		Europa	Yaego	87.6 Fm		150.39	     	03:49	10A	2024-11-17
+23		Calcium (sadfem Remix)	Falinee	Calcium (sadfem Remix)	Electronic	155.00	     	02:59	7A	2024-11-17
+24		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+25		Everything is romantic	Charli Xcx	Brat and it’s completely different but also still brat	Dance	149.95	     	03:23	6A	2024-11-11
+26		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+27		Cut Slope	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	144.00	     	04:50	5A	2024-11-06
+28		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11
+29		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+30		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+31		Cd Romance	Yaego	87.6 Fm		134.45	     	02:51	1A	2024-11-17
+32		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+33		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+34		Sundial	Bicep	Isles	Electronic	135.00	     	04:35	4B	2024-11-11
+35		part vi - solar goddess return	Jon Hopkins Vylana 7RAYS Cherif Hashizume Ishq	RITUAL	Electronic	133.00	     	04:48	2B	2024-11-11
+36		Glue	Bicep	Bicep	Electronic	130.00	     	04:29	9A	2024-11-11
+37		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+38		Bicycle	Yaego & Jas	Planet Chaser		125.00	     	02:08	12B	2024-11-17
+39		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+40		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+41		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+42		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+43		Cd Romance	Yaego	87.6 Fm		134.45	     	02:51	1A	2024-11-17

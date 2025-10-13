@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+2		The Flavor	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	05:16	4A	2024-11-06
+3		Aura	Bicep	Bicep	Electronic	123.00	     	05:16	1A	2024-11-11
+4		Everything Connected	Jon Hopkins	Singularity	Electronic	125.00	     	10:30	8B	2024-11-11
+5		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+6		Sabrina Carpenter - Espresso (ILYAA Remix) [Techno] [FREE DOWNLOAD]				133.00	     	03:25	1A	2024-12-29

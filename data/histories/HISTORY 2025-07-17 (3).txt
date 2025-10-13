@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Saturday Love (Burnsy Edit)	Cherrelle			128.00	     	04:20	2A	2025-04-19
+2		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+3		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+4		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21

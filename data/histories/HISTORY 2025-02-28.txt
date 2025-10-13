@@ -1,0 +1,13 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+2		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+3		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+4		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+5		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+6		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+7		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+8		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+9		Vertical Ice	Polar Inertia	Kinematic Optics EP		133.00	     	11:58	8A	2025-02-13
+10		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+11		LOVE 4 RAVE	999999999	LOVE 4 RAVE		135.00	     	05:53	11B	2025-02-06
+12		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03

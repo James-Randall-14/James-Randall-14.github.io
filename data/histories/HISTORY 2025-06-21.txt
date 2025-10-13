@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03
+2		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+3		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+4		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+5		The Moment	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	04:35	9A	2024-11-06

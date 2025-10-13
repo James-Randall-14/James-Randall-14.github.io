@@ -1,0 +1,11 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+2		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+3		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+4		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+5		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03
+6		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+7		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+8		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+9		Water	Tyla	Water		117.00	     	03:20	2A	2025-04-27
+10		HATEFUL	HEALTH SIERRA VEINS	RAT WARS		116.00	     	04:08	12A	2025-07-18

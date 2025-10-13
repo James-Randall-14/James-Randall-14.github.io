@@ -1,0 +1,11 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Rain	Bicep	Bicep	Electronic	123.00	     	05:51	3A	2024-11-11
+2		part vi - solar goddess return	Jon Hopkins Vylana 7RAYS Cherif Hashizume Ishq	RITUAL	Electronic	133.00	     	04:48	2B	2024-11-11
+3		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+4		Concrete Bench	Ternion Sound	Digital Artifice		140.00	     	03:41	4A	2024-11-11
+5		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+6		Bicycle	Yaego & Jas	Planet Chaser		125.00	     	02:08	12B	2024-11-17
+7		Scatman John - Scatman (Faustix Remix)				142.00	     	03:07	4A	2024-11-16
+8		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+9		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+10		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17

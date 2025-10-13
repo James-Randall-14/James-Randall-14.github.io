@@ -1,0 +1,33 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+3		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+4		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+5		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+6		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+7		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+8		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+9		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+10		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+11		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+12		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+13		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10
+14		Dior	Pop Smoke	Meet The Woo		142.00	     	03:36	6A	2025-05-10
+15		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+16		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+17		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+18		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+19		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+20		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+21		FE!N (Techno Remix)	Travis Scott			130.50	     	03:50	12A	2025-03-03
+22		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+23		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+24		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+25		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+26		HOT TO GO!	Chappell Roan	The Rise and Fall of a Midwest Princess		140.00	     	03:04	2B	2025-05-04
+27		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+28		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+29		Applause	Lady Gaga	ARTPOP		140.00	     	03:32	6A	2025-04-05
+30		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+31		Scatman John - Scatman (Faustix Remix)				142.00	     	03:07	4A	2024-11-16
+32		Money Longer	Lil Uzi Vert	Lil Uzi Vert vs. The World		136.00	     	03:19	4A	2025-05-10

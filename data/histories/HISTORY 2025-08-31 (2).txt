@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		saving flowers	salute Rina Sawayama	saving flowers		132.00	     	03:30	3A	2025-05-08
+2		saving flowers	salute Rina Sawayama	saving flowers		132.00	     	03:30	3A	2025-05-08
+3		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+4		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+5		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+6		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+7		Buried	Imanu			126.00	     	04:13	6A	2025-05-08

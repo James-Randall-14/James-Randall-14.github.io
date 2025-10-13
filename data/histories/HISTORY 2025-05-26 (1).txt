@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		SOJU	Yaego wzrdd	TELEVISTA		114.00	     	03:47	3A	2025-03-21
+2		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+3		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+4		Cd Romance	Yaego	87.6 Fm		134.45	     	02:51	1A	2024-11-17

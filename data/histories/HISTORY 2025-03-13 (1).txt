@@ -1,0 +1,16 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+2		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+3		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+4		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+5		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+6		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+7		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+8		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+9		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+10		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+11		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+12		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+13		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+14		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+15		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03

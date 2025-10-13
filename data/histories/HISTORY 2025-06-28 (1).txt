@@ -1,0 +1,9 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+2		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+3		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+4		All The People	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	134.00	     	06:30	6A	2024-11-06
+5		Collider	Noisia The Glitch Mob	The Resonance VI		132.00	     	03:59	8A	2025-06-17
+6		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+7		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+8		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16

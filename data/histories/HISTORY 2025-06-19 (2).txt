@@ -1,0 +1,9 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+2		Sonorous	Revolve	Sonorous		65.00	     	06:24	7A	2024-12-21
+3		Does it hurt me	Sorza	Pillars		85.50	     	04:12	7B	2024-12-19
+4		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+5		Road to Nowhere	Kas:st	Road to Nowhere		127.00	     	07:14	2A	2024-12-29
+6		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+7		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11
+8		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08

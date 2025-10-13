@@ -1,0 +1,13 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+2		Mist (Original Mix)	Pessimist	Pagans		126.00	     	06:44	9B	2025-01-03
+3		BerwynGesaffNeighbours	Fred again.. Berwyn	USB		102.00	     	02:03	7A	2024-12-12
+4		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+5		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+6		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+7		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+8		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+9		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+10		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+11		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+12		Talk talk featuring troye sivan	Charli Xcx Troye Sivan	Brat and it’s completely different but also still brat	Dance	130.00	     	02:53	6A	2024-11-11

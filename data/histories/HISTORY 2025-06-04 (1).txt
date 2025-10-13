@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+2		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+3		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+4		Are U Ok (Extended Mix)	JVCKPOTZ	Are U Ok		125.00	     	03:08	9A	2025-04-19
+5		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+6		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08

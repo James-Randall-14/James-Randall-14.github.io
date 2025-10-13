@@ -1,0 +1,67 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+2		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+3		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+4		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+5		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+6		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+7		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+8		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+9		sweetness	yoshienjoyer	sweetness		148.00	     	03:43	5B	2025-07-29
+10		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+11		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+12		Soggy Bottomz	Cut & Run Crew			175.00	     	05:00	7B	2025-04-19
+13		Hello goodbye (jungle gym flip)	dakist4t			171.00	     	03:00	9B	2025-07-29
+14		Empress	Imanu	Unfold		172.00	     	02:40	2A	2025-05-08
+15		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+16		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+17		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+18		Gasolina	Daddy Yankee	Barrio Fino (Bonus Track Version)		96.00	     	03:12	4A	2025-03-03
+19		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+20		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+21		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+22		Rally House	Prod. DTM	Rally House		122.00	     	01:36	8A	2025-07-29
+23		Flying Rally	Prod. DTM	Flying Rally		122.00	     	01:55	6A	2025-07-29
+24		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+25		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+26		Car Radio	Twenty One Pilots	Vessel		130.00	     	04:27	8A	2025-05-06
+27		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+28		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+29		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+30		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+31		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+32		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+33		Boy's a liar Pt. 2	PinkPantheress Ice Spice	Boy's a liar Pt. 2		133.00	     	02:11	7B	2025-05-10
+34		iwannadance	Chanson	iwannadance		128.00	     	01:35	6B	2025-07-18
+35		Losing Control	Odd Mob OMNOM	Losing Control		134.00	     	02:45	6A	2025-04-26
+36		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+37		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+38		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+39		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+40		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+41		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+42		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+43		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+44		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+45		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+46		M3 N Min3	Femtanyl & Danny Brown	M3 N Min3 - Single		150.00	     	02:11	11A	2024-11-17
+47		Die Welt Brennt	Klangkuenstler Obernauer	Die Welt Brennt		150.00	     	05:10	8A	2025-02-06
+48		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+49		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+50		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+51		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+52		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+53		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+54		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+55		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+56		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+57		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+58		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+59		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+60		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+61		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+62		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+63		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+64		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+65		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+66		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10

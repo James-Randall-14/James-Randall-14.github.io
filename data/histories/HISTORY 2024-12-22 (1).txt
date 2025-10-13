@@ -1,0 +1,2 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22

@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Adagio For Strings (CRAAIG Hard Edit)				154.00	     	06:15	7B	2024-11-16
+2		Everything is romantic	Charli Xcx	Brat and it’s completely different but also still brat	Dance	149.95	     	03:23	6A	2024-11-11
+3		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+4		Scatman John - Scatman (Faustix Remix)				142.00	     	03:07	4A	2024-11-16
+5		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+6		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+7		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+8		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11
+9		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+10		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+11		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16

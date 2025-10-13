@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Water	Tyla	Water		117.00	     	03:20	2A	2025-04-27
+2		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+3		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+4		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17

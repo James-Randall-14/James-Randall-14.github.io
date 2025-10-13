@@ -1,0 +1,25 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+2		Revolution 909	Daft Punk	Homework		126.50	     	05:35	10A	2025-02-13
+3		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+4		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+5		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+6		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+7		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+8		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+9		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+10		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+11		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+12		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+13		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+14		Opal (Four Tet Remix)	Bicep	Opal (Four Tet Remix)	Electronic	127.00	     	08:14	8A	2024-11-11
+15		Apricots	Bicep	Isles	Electronic	128.00	     	04:06	2A	2024-11-11
+16		Midnight (Jon Hopkins Remix)	Coldplay	Midnight (Jon Hopkins Remix)	Rock	127.00	     	10:05	2A	2024-11-11
+17		Nova	Four Tet Burial	Nova / Moth	Ambient	128.02	     	05:42	11A	2024-11-11
+18		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+19		Absolute Magnitude	Exium	A Sensible Alternative to Emotion		128.00	     	05:53	2B	2025-01-03
+20		part vi - solar goddess return	Jon Hopkins Vylana 7RAYS Cherif Hashizume Ishq	RITUAL	Electronic	133.00	     	04:48	2B	2024-11-11
+21		Singularity (Edit)	Jon Hopkins	Singularity (Edit)	Electronic	133.00	     	04:27	2A	2024-11-11
+22		Sundial	Bicep	Isles	Electronic	135.00	     	04:35	4B	2024-11-11
+23		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+24		LOVE 4 RAVE	999999999	LOVE 4 RAVE		135.00	     	05:53	11B	2025-02-06

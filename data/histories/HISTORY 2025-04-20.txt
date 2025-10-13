@@ -1,0 +1,3 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Are U Ok (Extended Mix)	JVCKPOTZ	Are U Ok		125.00	     	03:08	9A	2025-04-19
+2		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19

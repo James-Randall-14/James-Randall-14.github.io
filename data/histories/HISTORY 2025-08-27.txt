@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		ASHAMED	HEALTH	ASHAMED		81.00	     	03:01	1A	2025-07-18
+2		BE QUIET AND DRIVE (FAR AWAY)	HEALTH	RAT WARS ULTRA EDITION		165.00	     	03:07	3B	2025-07-18
+3		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+4		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+5		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+6		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+7		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+8		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+9		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17

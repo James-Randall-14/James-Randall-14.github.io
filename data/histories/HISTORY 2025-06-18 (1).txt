@@ -1,0 +1,15 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+2		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+3		You Got Me	Yunna	All The People Vol. 1		150.00	     	04:35	12B	2025-06-17
+4		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+5		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+6		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+7		Vega	Ilija Djokovic	Vega / Neon		124.00	     	03:21	7A	2025-04-26
+8		Angels in Tibet	Amaarae	Fountain Baby		140.00	     	02:22	5A	2025-05-06
+9		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+10		Dior	Pop Smoke	Meet The Woo		142.00	     	03:36	6A	2025-05-10
+11		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+12		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+13		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+14		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11

@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+2		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+3		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+4		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+5		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+6		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+7		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11
+8		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+9		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08

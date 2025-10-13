@@ -1,0 +1,16 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		EXCESS	HEALTH Perturbator	DISCO4 :: PART II		100.00	     	04:24	1B	2025-07-18
+2		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+3		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+4		i like the way you kiss me	Artemas	i like the way you kiss me		151.56	     	02:22	1A	2025-08-26
+5		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+6		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+7		go back in time **AND STAY THERE**	yoshienjoyer	go back in time **AND STAY THERE**		149.00	     	02:53	4B	2025-07-29
+8		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+9		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+10		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+11		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+12		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+13		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+14		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+15		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05

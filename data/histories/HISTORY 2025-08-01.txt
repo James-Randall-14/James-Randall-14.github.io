@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+2		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+3		sweetness	yoshienjoyer	sweetness		148.00	     	03:43	5B	2025-07-29
+4		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+5		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+6		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04

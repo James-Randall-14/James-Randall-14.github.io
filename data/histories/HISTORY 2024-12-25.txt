@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+2		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+3		Higher	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	137.00	     	05:33	4A	2024-11-06
+4		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+5		All The People	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	134.00	     	06:30	6A	2024-11-06
+6		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+7		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+8		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+9		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+10		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+11		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+12		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+13		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+14		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+15		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+16		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+17		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12

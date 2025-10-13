@@ -1,0 +1,15 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17
+2		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+3		BerwynGesaffNeighbours	Fred again.. Berwyn	USB		102.00	     	02:03	7A	2024-12-12
+4		Five Hours	Deorro	Five Hours		127.98	     	05:26	6A	2024-12-13
+5		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+6		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+7		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+8		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+9		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+10		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+11		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+12		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+13		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+14		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01

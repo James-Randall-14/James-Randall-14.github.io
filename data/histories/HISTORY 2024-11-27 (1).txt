@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17
+2		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+3		Mercy	Lorn	Ask The Dust	Electronic	90.16	     	02:18	6A	2024-11-11
+4		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11

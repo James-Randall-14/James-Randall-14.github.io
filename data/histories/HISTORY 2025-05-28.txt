@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+2		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+3		Lifetime	Tobiahs	Lifetime		135.00	     	02:38	3A	2025-05-04
+4		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+5		saving flowers	salute Rina Sawayama	saving flowers		132.00	     	03:30	3A	2025-05-08

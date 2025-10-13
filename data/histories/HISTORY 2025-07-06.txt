@@ -1,0 +1,15 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+2		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+3		Empress	Imanu	Unfold		172.00	     	02:40	2A	2025-05-08
+4		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+5		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+6		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+7		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+8		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+9		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+10		Sonorous	Revolve	Sonorous		65.00	     	06:24	7A	2024-12-21
+11		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+12		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+13		Die Welt Brennt	Klangkuenstler Obernauer	Die Welt Brennt		150.00	     	05:10	8A	2025-02-06
+14		Lie To Me	Samantha Togni	Acceleration Series Vol. II	Techno	146.00	     	05:30	9A	2024-11-29

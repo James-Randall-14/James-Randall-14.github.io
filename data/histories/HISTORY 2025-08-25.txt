@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+2		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+3		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+4		Pretty Misty (99 Nissan Patrol Remix)	Mincy	XTR-EMIX		140.00	     	03:46	5A	2025-06-17

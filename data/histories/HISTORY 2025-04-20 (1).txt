@@ -1,0 +1,13 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+2		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+3		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+4		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+5		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19
+6		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+7		Finally	Swedish House Mafia Alicia Keys	Finally		131.00	     	03:35	4A	2025-04-07
+8		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+9		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+10		Say U Luv Me (salute Remix)	Karma Kid			137.00	     	04:31	8A	2025-04-19
+11		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+12		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11

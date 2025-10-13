@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Gasolina	Daddy Yankee	Barrio Fino (Bonus Track Version)		96.00	     	03:12	4A	2025-03-03
+2		VOY A LLeVARTE PA PR	Bad Bunny	DeBÍ TiRAR MáS FOToS		100.00	     	02:36	9A	2025-04-05
+3		EXCESS	HEALTH Perturbator	DISCO4 :: PART II		100.00	     	04:24	1B	2025-07-18
+4		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+5		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+6		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17

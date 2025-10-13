@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+2		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+3		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+4		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+5		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+6		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+7		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19

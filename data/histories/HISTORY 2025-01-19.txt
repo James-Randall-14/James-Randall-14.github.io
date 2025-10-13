@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03
+2		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+3		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03
+4		Day Of Riddance	CW/A	Day Of Riddance		126.00	     	05:08	6B	2025-01-03
+5		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+6		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+7		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+8		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+9		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11

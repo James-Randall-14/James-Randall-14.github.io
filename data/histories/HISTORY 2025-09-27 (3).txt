@@ -1,0 +1,19 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+2		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+3		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+4		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+5		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+6		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+7		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+8		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+9		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+10		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+11		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+12		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+13		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+14		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+15		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+16		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+17		Hello goodbye (jungle gym flip)	dakist4t			171.00	     	03:00	9B	2025-07-29
+18		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29

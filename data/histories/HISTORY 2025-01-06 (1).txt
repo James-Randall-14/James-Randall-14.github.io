@@ -1,0 +1,55 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+2		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+3		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+4		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+5		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+6		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+7		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+8		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+9		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+10		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+11		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+12		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+13		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+14		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+15		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+16		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+17		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+18		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+19		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+20		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+21		The Moment	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	04:35	9A	2024-11-06
+22		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+23		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+24		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+25		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+26		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+27		Higher	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	137.00	     	05:33	4A	2024-11-06
+28		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+29		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+30		Mist (Original Mix)	Pessimist	Pagans		126.00	     	06:44	9B	2025-01-03
+31		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+32		Deep Learning	Symmetrical Behaviour	Deep Learning		130.00	     	06:05	1A	2025-01-03
+33		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+34		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+35		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+36		Poison	C-System	Poison		138.00	     	05:35	2A	2025-01-03
+37		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+38		Deep Space	Alignment	Close Your Eyes EP	Techno	148.00	     	05:37	7A	2024-12-01
+39		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+40		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+41		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+42		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+43		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+44		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+45		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+46		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+47		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+48		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+49		The Moment	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	04:35	9A	2024-11-06
+50		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+51		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+52		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+53		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+54		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06

@@ -1,0 +1,13 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Revolution 909	Daft Punk	Homework		126.50	     	05:35	10A	2025-02-13
+2		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+3		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+4		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+5		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+6		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+7		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+8		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+9		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+10		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+11		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+12		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03

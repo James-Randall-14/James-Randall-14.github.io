@@ -1,0 +1,20 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+3		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+4		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+5		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+6		Higher	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	137.00	     	05:33	4A	2024-11-06
+7		Money Longer	Lil Uzi Vert	Lil Uzi Vert vs. The World		136.00	     	03:19	4A	2025-05-10
+8		Lifetime	Tobiahs	Lifetime		135.00	     	02:38	3A	2025-05-04
+9		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+10		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+11		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+12		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+13		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+14		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+15		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+16		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+17		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+18		The Fox (What Does the Fox Say?)	Ylvis	The Fox (What Does the Fox Say?)	Pop	128.00	     	03:33	12A	2024-12-01
+19		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03

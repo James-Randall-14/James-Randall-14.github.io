@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+2		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+3		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+4		Dream Roller	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	165.00	     	06:47	5A	2024-11-06
+5		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19

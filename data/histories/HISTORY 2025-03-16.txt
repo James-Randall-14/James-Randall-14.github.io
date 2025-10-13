@@ -1,0 +1,121 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+2		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+3		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+4		Sabrina Carpenter - Espresso (ILYAA Remix) [Techno] [FREE DOWNLOAD]				133.00	     	03:25	1A	2024-12-29
+5		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03
+6		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+7		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+8		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+9		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+10		Palm Beach Banger	Fisher	Palm Beach Banger	House	126.00	     	03:53	4A	2024-11-17
+11		Music Sounds Better With You	Alan Braxe Stardust Benjamin Diamond Thomas Bangalter	Music Sounds Better With You	House	124.21	     	06:43	4A	2024-11-20
+12		Turismo	Vrdnyn	Turismo	House	130.00	     	02:18	2A	2024-11-17
+13		Revolution 909	Daft Punk	Homework		126.50	     	05:35	10A	2025-02-13
+14		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+15		Harder Better Faster Stronger	Daft Punk	Discovery	Dance	123.48	     	03:46	11A	2024-11-27
+16		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+17		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+18		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+19		All You Children	Jamie xx The Avalanches	All You Children		120.00	     	04:14	2A	2025-02-13
+20		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+21		XVI	Akiaura LONOWN DJ Pointless	XVI	Electronic	117.92	     	04:04	2A	2024-11-17
+22		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+23		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+24		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+25		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+26		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+27		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+28		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+29		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+30		Talk talk	Charli Xcx	Brat and it’s completely different but also still brat	Dance	129.99	     	02:41	6B	2024-11-11
+31		Talk talk featuring troye sivan	Charli Xcx Troye Sivan	Brat and it’s completely different but also still brat	Dance	130.00	     	02:53	6A	2024-11-11
+32		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+33		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+34		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+35		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+36		Beautiful People (Extended)	David Guetta Sia	Beautiful People		127.00	     	04:20	8A	2025-03-13
+37		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+38		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+39		Red Armor	Niki Istrefi	EUROMANTIC001		140.00	     	04:40	8A	2025-02-06
+40		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+41		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+42		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+43		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+44		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+45		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+46		No. 22	Moderat	Moderat		138.00	     	05:41	9A	2025-03-13
+47		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+48		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+49		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+50		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+51		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+52		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+53		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+54		Five Hours	Deorro	Five Hours		127.98	     	05:26	6A	2024-12-13
+55		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+56		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+57		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+58		The Fox (What Does the Fox Say?)	Ylvis	The Fox (What Does the Fox Say?)	Pop	128.00	     	03:33	12A	2024-12-01
+59		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12
+60		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+61		Shoreditch	Vrdnyn	Shoreditch	House	132.00	     	02:29	2A	2024-11-17
+62		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+63		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+64		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+65		Nicki Minaj - Anaconda (Boss In Drama Remix)				130.00	     	03:34	3A	2025-03-03
+66		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+67		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+68		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+69		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+70		Rigid	Rosa Anschütz	Rr4		135.00	     	06:53	12A	2025-02-05
+71		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+72		Walpurgis Night	I Hate Models Zanias	Midnight Cults		132.00	     	08:54	10A	2025-01-03
+73		Glue	Bicep	Bicep	Electronic	130.00	     	04:29	9A	2024-11-11
+74		Opal (Four Tet Remix)	Bicep	Opal (Four Tet Remix)	Electronic	127.00	     	08:14	8A	2024-11-11
+75		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+76		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+77		Pull Out	Artbat Kas:st Losless	Pull Out		128.00	     	04:47	4A	2025-02-06
+78		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+79		Sundial	Bicep	Isles	Electronic	135.00	     	04:35	4B	2024-11-11
+80		part vi - solar goddess return	Jon Hopkins Vylana 7RAYS Cherif Hashizume Ishq	RITUAL	Electronic	133.00	     	04:48	2B	2024-11-11
+81		Midnight (Jon Hopkins Remix)	Coldplay	Midnight (Jon Hopkins Remix)	Rock	127.00	     	10:05	2A	2024-11-11
+82		Singularity (Edit)	Jon Hopkins	Singularity (Edit)	Electronic	133.00	     	04:27	2A	2024-11-11
+83		Deep Learning	Symmetrical Behaviour	Deep Learning		130.00	     	06:05	1A	2025-01-03
+84		Mass Control	Exium	Mass Control		127.00	     	05:40	7A	2025-01-03
+85		ES19.4	Snts	SNTS		128.00	     	06:17	7A	2025-02-13
+86		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+87		Opticon	Tensal	Unequal Struggle EP		128.00	     	06:01	8B	2025-01-03
+88		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+89		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+90		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+91		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+92		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+93		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+94		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+95		Sabrina Carpenter - Espresso (ILYAA Remix) [Techno] [FREE DOWNLOAD]				133.00	     	03:25	1A	2024-12-29
+96		FE!N (Techno Remix)	Travis Scott			130.50	     	03:50	12A	2025-03-03
+97		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+98		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+99		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+100		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+101		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+102		Beautiful People (Extended)	David Guetta Sia	Beautiful People		127.00	     	04:20	8A	2025-03-13
+103		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+104		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+105		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+106		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+107		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+108		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+109		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+110		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+111		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+112		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+113		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+114		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12
+115		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+116		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+117		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+118		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+119		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+120		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26

@@ -1,0 +1,20 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+2		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+3		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+4		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+5		Deep Blue	Montee	ONU	Dance	120.00	     	04:16	7A	2024-11-11
+6		Bicycle	Yaego & Jas	Planet Chaser		125.00	     	02:08	12B	2024-11-17
+7		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+8		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+9		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+10		XVI	Akiaura LONOWN DJ Pointless	XVI	Electronic	117.92	     	04:04	2A	2024-11-17
+11		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+12		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+13		Palm Beach Banger	Fisher	Palm Beach Banger	House	126.00	     	03:53	4A	2024-11-17
+14		The Moment	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	04:35	9A	2024-11-06
+15		All The People	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	134.00	     	06:30	6A	2024-11-06
+16		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+17		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+18		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+19		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11

@@ -1,0 +1,48 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+2		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+3		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+4		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+5		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+6		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+7		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+8		Boy's a liar Pt. 2	PinkPantheress Ice Spice	Boy's a liar Pt. 2		133.00	     	02:11	7B	2025-05-10
+9		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12
+10		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+11		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+12		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+13		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+14		DSM-V	HEALTH	RAT WARS		130.00	     	04:23	12A	2025-07-18
+15		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+16		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+17		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+18		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+19		Soggy Bottomz	Cut & Run Crew			175.00	     	05:00	7B	2025-04-19
+20		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+21		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+22		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+23		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+24		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+25		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+26		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+27		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+28		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+29		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+30		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+31		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+32		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+33		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+34		BE QUIET AND DRIVE (FAR AWAY)	HEALTH	RAT WARS ULTRA EDITION		165.00	     	03:07	3B	2025-07-18
+35		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+36		Palm Beach Banger	Fisher	Palm Beach Banger	House	126.00	     	03:53	4A	2024-11-17
+37		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+38		Talk talk	Charli Xcx	Brat and it’s completely different but also still brat	Dance	129.99	     	02:41	6B	2024-11-11
+39		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+40		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+41		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+42		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+43		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+44		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+45		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+46		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+47		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11

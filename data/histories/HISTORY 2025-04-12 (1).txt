@@ -1,0 +1,31 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+2		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+3		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+4		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+5		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11
+6		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+7		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+8		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+9		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+10		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+11		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+12		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+13		M3 N Min3	Femtanyl & Danny Brown	M3 N Min3 - Single		150.00	     	02:11	11A	2024-11-17
+14		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+15		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+16		Calcium (sadfem Remix)	Falinee	Calcium (sadfem Remix)	Electronic	155.00	     	02:59	7A	2024-11-17
+17		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+18		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+19		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+20		No. 22	Moderat	Moderat		138.00	     	05:41	9A	2025-03-13
+21		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+22		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+23		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+24		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+25		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+26		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+27		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+28		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+29		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+30		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29

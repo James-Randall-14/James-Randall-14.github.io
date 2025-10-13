@@ -1,0 +1,39 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+2		No Sleep (6AM)	Matroda Meryll	No Sleep (6AM)		126.00	     	02:26	2A	2025-04-26
+3		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+4		BEATS FOR THE UNDERGROUND	Mau P	BEATS FOR THE UNDERGROUND		126.00	     	03:34	3A	2025-05-03
+5		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+6		Finally	Swedish House Mafia Alicia Keys	Finally		131.00	     	03:35	4A	2025-04-07
+7		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+8		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+9		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+10		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+11		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+12		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+13		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+14		Scatman John - Scatman (Faustix Remix)				142.00	     	03:07	4A	2024-11-16
+15		Never	Sorza	Pillars		144.00	     	03:36	4A	2024-12-19
+16		Visions of what could be	Sorza	Pillars		145.00	     	03:48	10A	2024-12-19
+17		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+18		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+19		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+20		M3 N Min3	Femtanyl & Danny Brown	M3 N Min3 - Single		150.00	     	02:11	11A	2024-11-17
+21		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+22		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+23		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+24		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+25		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+26		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+27		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+28		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+29		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11
+30		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+31		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+32		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11
+33		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+34		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+35		Does it hurt me	Sorza	Pillars		85.50	     	04:12	7B	2024-12-19
+36		Soggy Bottomz	Cut & Run Crew			175.00	     	05:00	7B	2025-04-19
+37		Ibitbt	3l3d3p	Ibitbt - Single		170.00	     	02:24	12B	2024-11-17
+38		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17

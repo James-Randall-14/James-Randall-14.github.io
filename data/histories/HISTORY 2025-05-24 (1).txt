@@ -1,0 +1,17 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+2		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+3		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+4		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+5		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+6		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+7		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+8		through the light	dracodraco	through the light	Dance	165.00	     	01:36	4B	2024-11-17
+9		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+10		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+11		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+12		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11
+13		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+14		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+15		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+16		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21

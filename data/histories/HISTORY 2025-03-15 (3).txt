@@ -1,0 +1,13 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Deep Blue	Montee	ONU	Dance	120.00	     	04:16	7A	2024-11-11
+2		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+3		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+4		Mist (Original Mix)	Pessimist	Pagans		126.00	     	06:44	9B	2025-01-03
+5		Day Of Riddance	CW/A	Day Of Riddance		126.00	     	05:08	6B	2025-01-03
+6		Walpurgis Night	I Hate Models Zanias	Midnight Cults		132.00	     	08:54	10A	2025-01-03
+7		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+8		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+9		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03
+10		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+11		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+12		Poison	C-System	Poison		138.00	     	05:35	2A	2025-01-03

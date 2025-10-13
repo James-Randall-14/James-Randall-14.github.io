@@ -1,0 +1,21 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+2		Cd Romance	Yaego	87.6 Fm		134.45	     	02:51	1A	2024-11-17
+3		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+4		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+5		Fuck My Computer	Ninajirachi	Fuck My Computer		136.00	     	03:10	5B	2025-08-05
+6		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+7		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+8		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+9		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+10		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+11		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+12		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+13		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+14		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+15		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+16		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+17		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+18		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+19		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+20		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27

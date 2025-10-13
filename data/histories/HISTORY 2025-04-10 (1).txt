@@ -1,0 +1,58 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+2		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+3		Finally	Swedish House Mafia Alicia Keys	Finally		131.00	     	03:35	4A	2025-04-07
+4		Pull Out	Artbat Kas:st Losless	Pull Out		128.00	     	04:47	4A	2025-02-06
+5		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+6		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+7		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+8		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+9		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+10		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+11		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+12		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+13		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+14		ILLYGIRL	M.I.A.	/\/\ /\ Y /\ (Deluxe Edition)	Alternative & Indie	125.00	     	02:14	6A	2024-12-01
+15		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+16		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+17		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+18		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+19		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+20		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+21		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+22		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+23		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11
+24		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+25		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+26		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+27		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+28		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+29		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+30		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+31		Never	Sorza	Pillars		144.00	     	03:36	4A	2024-12-19
+32		Visions of what could be	Sorza	Pillars		145.00	     	03:48	10A	2024-12-19
+33		I'm here	Sorza	Pillars		150.00	     	03:54	3A	2024-12-19
+34		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+35		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+36		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+37		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+38		No. 22	Moderat	Moderat		138.00	     	05:41	9A	2025-03-13
+39		Intimacy	Ternion Sound	Digital Artifice		140.00	     	03:41	9A	2024-11-11
+40		dataDyne	Ternion Sound	Digital Artifice		140.00	     	03:48	9A	2024-11-11
+41		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+42		Rigid	Rosa Anschütz	Rr4		135.00	     	06:53	12A	2025-02-05
+43		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+44		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+45		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+46		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+47		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+48		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+49		Mouth to Mouth	Douglas Dare Rival Consoles	Omni		141.00	     	04:05	2B	2025-03-03
+50		VOY A LLeVARTE PA PR	Bad Bunny	DeBÍ TiRAR MáS FOToS		100.00	     	02:36	9A	2025-04-05
+51		Like That (feat. Gucci Mane)	Doja Cat Gucci Mane	Hot Pink		106.00	     	02:43	11A	2025-03-13
+52		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05
+53		Muñekita	Kali Uchis El Alfa JT	Muñekita		112.00	     	03:39	4A	2025-04-05
+54		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+55		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+56		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+57		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07

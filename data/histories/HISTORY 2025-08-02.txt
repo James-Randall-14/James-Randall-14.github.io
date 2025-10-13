@@ -1,0 +1,16 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+2		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+3		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+4		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+5		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+6		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+7		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+8		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+9		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+10		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+11		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+12		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+13		sweetness	yoshienjoyer	sweetness		148.00	     	03:43	5B	2025-07-29
+14		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+15		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19

@@ -1,0 +1,64 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		EXCESS	HEALTH Perturbator	DISCO4 :: PART II		100.00	     	04:24	1B	2025-07-18
+2		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+3		Aquamarine	Addison Rae	Addison		112.00	     	02:42	6A	2025-07-29
+4		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+5		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+6		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+7		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+8		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+9		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+10		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+11		Collider	Noisia The Glitch Mob	The Resonance VI		132.00	     	03:59	8A	2025-06-17
+12		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17
+13		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+14		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+15		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+16		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+17		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+18		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+19		look what you started	yoshienjoyer	look what you started		140.00	     	03:22	10B	2025-07-29
+20		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+21		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+22		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+23		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+24		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+25		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+26		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+27		Last Jungle	Sub Focus	Sub Focus		145.00	     	03:39	5B	2025-06-17
+28		Pretty Misty (99 Nissan Patrol Remix)	Mincy	XTR-EMIX		140.00	     	03:46	5A	2025-06-17
+29		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+30		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+31		Collider	Noisia The Glitch Mob	The Resonance VI		132.00	     	03:59	8A	2025-06-17
+32		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17
+33		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+34		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+35		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+36		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+37		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+38		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+39		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+40		Death to the IDF (Bass)				132.00	     	01:56	11A	2025-07-18
+41		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+42		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+43		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+44		Hush	Borne Alexis B	Hush		140.00	     	02:03	7A	2025-06-04
+45		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+46		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+47		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+48		HOT TO GO!	Chappell Roan	The Rise and Fall of a Midwest Princess		140.00	     	03:04	2B	2025-05-04
+49		Fuck My Computer	Ninajirachi	Fuck My Computer		136.00	     	03:10	5B	2025-08-05
+50		I CAN’T LOSE YOU	Confidence Man	I CAN'T LOSE YOU		136.00	     	02:35	11A	2025-08-05
+51		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+52		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+53		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+54		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+55		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+56		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+57		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+58		Losing Control	Odd Mob OMNOM	Losing Control		134.00	     	02:45	6A	2025-04-26
+59		Lifetime	Tobiahs	Lifetime		135.00	     	02:38	3A	2025-05-04
+60		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+61		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+62		Car Radio	Twenty One Pilots	Vessel		130.00	     	04:27	8A	2025-05-06
+63		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27

@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+2		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+3		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+4		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+5		Parallel Transport	Polar Inertia	The Last Vehicle EP		123.00	     	11:35	11A	2025-02-13
+6		Astrous (Original Mix)	Pessimist	Pagans		126.00	     	09:15	1A	2025-01-03

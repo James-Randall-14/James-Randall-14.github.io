@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+2		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+3		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+4		Bad Romance	Lady Gaga	The Fame Monster		119.00	     	04:54	8A	2025-04-05
+5		360	Charli Xcx	Brat and it’s completely different but also still brat	Dance	120.00	     	02:13	8B	2024-11-11
+6		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+7		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+8		VHS RAVE	Tiësto Swimming Paul	VHS RAVE		128.00	     	03:11	12A	2025-03-21
+9		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13

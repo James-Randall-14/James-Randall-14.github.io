@@ -1,0 +1,17 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Give It To Me	Borne	Give It To Me		140.00	     	02:17	5A	2025-06-04
+2		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+3		Hush	Borne Alexis B	Hush		140.00	     	02:03	7A	2025-06-04
+4		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+5		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+6		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+7		Go Again	Borne	Go Again		140.00	     	02:10	7B	2025-06-04
+8		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+9		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+10		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08
+11		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+12		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+13		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+14		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+15		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+16		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12

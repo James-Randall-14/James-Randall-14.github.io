@@ -1,0 +1,39 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Five Hours	Deorro	Five Hours		127.98	     	05:26	6A	2024-12-13
+2		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+3		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+4		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+5		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+6		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+7		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+8		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+9		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+10		Does it hurt me	Sorza	Pillars		85.50	     	04:12	7B	2024-12-19
+11		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+12		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+13		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+14		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+15		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+16		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+17		Dream Roller	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	165.00	     	06:47	5A	2024-11-06
+18		Ibitbt	3l3d3p	Ibitbt - Single		170.00	     	02:24	12B	2024-11-17
+19		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+20		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+21		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+22		Nova	Four Tet Burial	Nova / Moth	Ambient	128.02	     	05:42	11A	2024-11-11
+23		Midnight (Jon Hopkins Remix)	Coldplay	Midnight (Jon Hopkins Remix)	Rock	127.00	     	10:05	2A	2024-11-11
+24		Apricots	Bicep	Isles	Electronic	128.00	     	04:06	2A	2024-11-11
+25		Opal (Four Tet Remix)	Bicep	Opal (Four Tet Remix)	Electronic	127.00	     	08:14	8A	2024-11-11
+26		Singularity (Edit)	Jon Hopkins	Singularity (Edit)	Electronic	133.00	     	04:27	2A	2024-11-11
+27		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+28		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+29		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+30		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+31		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+32		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+33		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+34		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+35		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+36		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+37		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+38		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19

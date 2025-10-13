@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Noplaceonearth	Cable	Noplaceonearth		140.00	     	04:34	6A	2025-09-30
+2		i can't see the light!	Silcrow			140.00	     	03:01	6A	2025-04-20
+3		Give It To Me	Borne	Give It To Me		140.00	     	02:17	5A	2025-06-04
+4		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+5		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+6		Concrete Bench	Ternion Sound	Digital Artifice		140.00	     	03:41	4A	2024-11-11
+7		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11

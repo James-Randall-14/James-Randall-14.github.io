@@ -1,0 +1,17 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05
+2		Muñekita	Kali Uchis El Alfa JT	Muñekita		112.00	     	03:39	4A	2025-04-05
+3		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+4		TiK ToK	Kesha	Animal (Expanded Edition)		120.00	     	03:19	6B	2025-04-05
+5		TiK ToK	Kesha	Animal (Expanded Edition)		120.00	     	03:19	6B	2025-04-05
+6		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+7		You Make Me Feel... (feat. Sabi)	Cobra Starship Sabi	Night Shades		132.00	     	03:35	6A	2025-04-05
+8		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+9		I Kissed A Girl	Katy Perry	One Of The Boys		130.00	     	02:59	8A	2025-04-05
+10		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+11		Bad Romance	Lady Gaga	The Fame Monster		119.00	     	04:54	8A	2025-04-05
+12		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+13		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+14		PURE/HONEY	Beyoncé	RENAISSANCE		124.00	     	04:48	2A	2025-04-05
+15		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+16		Die Young	Kesha	Feel Good Friday		128.00	     	03:33	12B	2025-04-05

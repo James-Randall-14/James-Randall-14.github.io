@@ -1,0 +1,64 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+2		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+3		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+4		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+5		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+6		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+7		Talk talk featuring troye sivan	Charli Xcx Troye Sivan	Brat and it’s completely different but also still brat	Dance	130.00	     	02:53	6A	2024-11-11
+8		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+9		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+10		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+11		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+12		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+13		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+14		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+15		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+16		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+17		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+18		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+19		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+20		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+21		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+22		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+23		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+24		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+25		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+26		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+27		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+28		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+29		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+30		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+31		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+32		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+33		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+34		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+35		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+36		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+37		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+38		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+39		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+40		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+41		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+42		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+43		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+44		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+45		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+46		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+47		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+48		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+49		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+50		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+51		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+52		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+53		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+54		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+55		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+56		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+57		Blow	Kesha	Blow		120.00	     	03:40	10A	2025-03-21
+58		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+59		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+60		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+61		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+62		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+63		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06

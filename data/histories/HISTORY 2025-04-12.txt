@@ -1,0 +1,9 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+2		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+3		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+4		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+5		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+6		Love Distortion	Ellen Allien	Alientronic Remixes 1		133.00	     	05:59	3A	2025-03-21
+7		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+8		Mamushi (Remix) [feat. TWICE]	Megan Thee Stallion Twice	MEGAN: ACT II		81.00	     	02:35	5A	2025-03-10

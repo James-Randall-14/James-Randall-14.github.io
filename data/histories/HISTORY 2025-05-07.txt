@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+2		Car Radio	Twenty One Pilots	Vessel		130.00	     	04:27	8A	2025-05-06
+3		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+4		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+5		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+6		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21

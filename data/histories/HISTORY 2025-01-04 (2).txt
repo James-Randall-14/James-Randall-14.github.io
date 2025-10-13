@@ -1,0 +1,22 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+2		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+3		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+4		Music Sounds Better With You	Alan Braxe Stardust Benjamin Diamond Thomas Bangalter	Music Sounds Better With You	House	124.21	     	06:43	4A	2024-11-20
+5		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+6		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+7		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+8		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+9		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+10		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+11		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+12		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+13		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+14		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+15		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+16		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+17		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+18		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+19		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+20		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+21		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12

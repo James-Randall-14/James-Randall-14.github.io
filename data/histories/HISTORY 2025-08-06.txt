@@ -1,0 +1,34 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+3		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+4		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+5		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+6		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+7		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+8		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+9		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+10		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+11		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+12		look what you started	yoshienjoyer	look what you started		140.00	     	03:22	10B	2025-07-29
+13		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+14		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+15		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+16		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+17		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+18		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+19		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19
+20		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+21		Say U Luv Me (salute Remix)	Karma Kid			137.00	     	04:31	8A	2025-04-19
+22		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+23		Car Radio	Twenty One Pilots	Vessel		130.00	     	04:27	8A	2025-05-06
+24		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+25		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+26		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+27		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+28		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+29		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+30		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+31		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+32		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+33		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10

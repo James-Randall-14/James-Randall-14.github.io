@@ -1,0 +1,37 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+3		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+4		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+5		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+6		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+7		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+8		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+9		XVI	Akiaura LONOWN DJ Pointless	XVI	Electronic	117.92	     	04:04	2A	2024-11-17
+10		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+11		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+12		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+13		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+14		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+15		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+16		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+17		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+18		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+19		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+20		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+21		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+22		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+23		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+24		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+25		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+26		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+27		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+28		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+29		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+30		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+31		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03
+32		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+33		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+34		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+35		BerwynGesaffNeighbours	Fred again.. Berwyn	USB		102.00	     	02:03	7A	2024-12-12
+36		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17

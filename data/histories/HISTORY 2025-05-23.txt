@@ -1,0 +1,21 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		SOJU	Yaego wzrdd	TELEVISTA		114.00	     	03:47	3A	2025-03-21
+2		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+3		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+4		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+5		DÁKITI	Bad Bunny JHAYCO	DÁKITI		110.00	     	03:25	9A	2025-04-27
+6		Dior	Pop Smoke	Meet The Woo		142.00	     	03:36	6A	2025-05-10
+7		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+8		Angels in Tibet	Amaarae	Fountain Baby		140.00	     	02:22	5A	2025-05-06
+9		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+10		Super Bass	Nicki Minaj	Pink Friday (Complete Edition)		127.00	     	03:20	1B	2025-04-27
+11		Muñekita	Kali Uchis El Alfa JT	Muñekita		112.00	     	03:39	4A	2025-04-05
+12		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05
+13		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+14		PURE/HONEY	Beyoncé	RENAISSANCE		124.00	     	04:48	2A	2025-04-05
+15		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+16		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+17		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+18		ILLYGIRL	M.I.A.	/\/\ /\ Y /\ (Deluxe Edition)	Alternative & Indie	125.00	     	02:14	6A	2024-12-01
+19		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+20		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10

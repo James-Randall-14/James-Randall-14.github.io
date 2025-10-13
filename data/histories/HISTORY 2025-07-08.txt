@@ -1,0 +1,28 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Umbrella	Rihanna JAY Z	Good Girl Gone Bad: Reloaded		87.00	     	04:36	3B	2025-03-13
+2		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+3		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+4		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+5		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+6		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+7		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+8		Empress	Imanu	Unfold		172.00	     	02:40	2A	2025-05-08
+9		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+10		through the light	dracodraco	through the light	Dance	165.00	     	01:36	4B	2024-11-17
+11		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+12		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11
+13		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+14		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+15		Mr. Brightside	The Killers	Hot Fuss		148.00	     	03:43	3B	2025-03-21
+16		I'm here	Sorza	Pillars		150.00	     	03:54	3A	2024-12-19
+17		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+18		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+19		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+20		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+21		NFINITY	The Glitch Mob	NFINITY		144.00	     	04:08	4A	2025-06-17
+22		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+23		You Got Me	Yunna	All The People Vol. 1		150.00	     	04:35	12B	2025-06-17
+24		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+25		dataDyne	Ternion Sound	Digital Artifice		140.00	     	03:48	9A	2024-11-11
+26		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+27		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21

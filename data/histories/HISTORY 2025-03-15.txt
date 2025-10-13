@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+2		Glue	Bicep	Bicep	Electronic	130.00	     	04:29	9A	2024-11-11
+3		Opal (Four Tet Remix)	Bicep	Opal (Four Tet Remix)	Electronic	127.00	     	08:14	8A	2024-11-11
+4		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+5		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+6		Nova	Four Tet Burial	Nova / Moth	Ambient	128.02	     	05:42	11A	2024-11-11
+7		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+8		Harder Better Faster Stronger	Daft Punk	Discovery	Dance	123.48	     	03:46	11A	2024-11-27
+9		Music Sounds Better With You	Alan Braxe Stardust Benjamin Diamond Thomas Bangalter	Music Sounds Better With You	House	124.21	     	06:43	4A	2024-11-20
+10		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+11		Revolution 909	Daft Punk	Homework		126.50	     	05:35	10A	2025-02-13

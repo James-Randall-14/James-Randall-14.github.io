@@ -1,0 +1,84 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+2		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+3		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+4		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+5		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+6		go back in time **AND STAY THERE**	yoshienjoyer	go back in time **AND STAY THERE**		149.00	     	02:53	4B	2025-07-29
+7		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+8		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+9		Last Jungle	Sub Focus	Sub Focus		145.00	     	03:39	5B	2025-06-17
+10		Pretty Misty (99 Nissan Patrol Remix)	Mincy	XTR-EMIX		140.00	     	03:46	5A	2025-06-17
+11		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+12		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+13		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+14		Car Radio	Twenty One Pilots	Vessel		130.00	     	04:27	8A	2025-05-06
+15		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+16		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+17		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+18		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+19		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+20		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+21		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+22		Boy's a liar Pt. 2	PinkPantheress Ice Spice	Boy's a liar Pt. 2		133.00	     	02:11	7B	2025-05-10
+23		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+24		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+25		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+26		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+27		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+28		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+29		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+30		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+31		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+32		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+33		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+34		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+35		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+36		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+37		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+38		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+39		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+40		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+41		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+42		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+43		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+44		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+45		Beautiful People (Extended)	David Guetta Sia	Beautiful People		127.00	     	04:20	8A	2025-03-13
+46		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+47		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+48		Aquamarine	Addison Rae	Addison		112.00	     	02:42	6A	2025-07-29
+49		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+50		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+51		XVI	Akiaura LONOWN DJ Pointless	XVI	Electronic	117.92	     	04:04	2A	2024-11-17
+52		HATEFUL	HEALTH SIERRA VEINS	RAT WARS		116.00	     	04:08	12A	2025-07-18
+53		Drawn Out Like An Ache	Lorn	Remnant		120.00	     	04:10	12A	2024-11-11
+54		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+55		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+56		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+57		Rally House	Prod. DTM	Rally House		122.00	     	01:36	8A	2025-07-29
+58		Flying Rally	Prod. DTM	Flying Rally		122.00	     	01:55	6A	2025-07-29
+59		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+60		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+61		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+62		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+63		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17
+64		Collider	Noisia The Glitch Mob	The Resonance VI		132.00	     	03:59	8A	2025-06-17
+65		Peace	The Glitch Mob	Peace		133.00	     	03:54	3A	2025-06-17
+66		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+67		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+68		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+69		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+70		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19
+71		Lifetime	Tobiahs	Lifetime		135.00	     	02:38	3A	2025-05-04
+72		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+73		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+74		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+75		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+76		Hush	Borne Alexis B	Hush		140.00	     	02:03	7A	2025-06-04
+77		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+78		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+79		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+80		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+81		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+82		Eeze Up	The Glitch Mob	Eeze Up		155.00	     	03:24	4A	2025-06-17
+83		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20

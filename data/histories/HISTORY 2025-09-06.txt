@@ -1,0 +1,16 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Deep Blue	Montee	ONU	Dance	120.00	     	04:16	7A	2024-11-11
+2		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+3		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+4		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+5		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+6		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+7		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+8		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+9		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+10		Creepy Crawlers (feat. Golemm)	BUGCORE	Creepy Crawlers (feat. Golemm)		133.00	     	03:09	11A	2025-08-05
+11		I CAN’T LOSE YOU	Confidence Man	I CAN'T LOSE YOU		136.00	     	02:35	11A	2025-08-05
+12		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+13		Fuck My Computer	Ninajirachi	Fuck My Computer		136.00	     	03:10	5B	2025-08-05
+14		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+15		Mission： Impossible - Theme	Tiesto			127.00	     	04:48	6A	2025-09-06

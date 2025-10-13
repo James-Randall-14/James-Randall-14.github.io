@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Sabrina Carpenter - Espresso (ILYAA Remix) [Techno] [FREE DOWNLOAD]				133.00	     	03:25	1A	2024-12-29
+2		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+3		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+4		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+5		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+6		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11

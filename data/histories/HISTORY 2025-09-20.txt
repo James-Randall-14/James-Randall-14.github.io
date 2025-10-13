@@ -1,0 +1,13 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08
+2		Red Armor	Niki Istrefi	EUROMANTIC001		140.00	     	04:40	8A	2025-02-06
+3		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08
+4		Impulsive Behavior	Under Black Helmet	I Was Laid-Back A Sinner Of Sorts EP		133.00	     	06:19	12A	2025-03-21
+5		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+6		Vertical Ice	Polar Inertia	Kinematic Optics EP		133.00	     	11:58	8A	2025-02-13
+7		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+8		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03
+9		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+10		Forgiveness of Blood	Tensal	Forgiveness of Blood		138.00	     	06:39	6A	2025-04-07
+11		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+12		Pretty Misty (99 Nissan Patrol Remix)	Mincy	XTR-EMIX		140.00	     	03:46	5A	2025-06-17

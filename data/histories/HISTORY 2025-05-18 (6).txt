@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+2		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+3		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+4		Sonorous	Revolve	Sonorous		65.00	     	06:24	7A	2024-12-21
+5		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+6		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+7		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+8		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+9		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+10		Mamushi (Remix) [feat. TWICE]	Megan Thee Stallion Twice	MEGAN: ACT II		81.00	     	02:35	5A	2025-03-10
+11		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+12		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+13		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+14		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+15		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+16		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+17		Can’t Fight The Feeling	Matroda	Can’t Fight The Feeling		126.00	     	02:51	2A	2025-04-26

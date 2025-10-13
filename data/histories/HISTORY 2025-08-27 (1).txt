@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Sonorous	Revolve	Sonorous		65.00	     	06:24	7A	2024-12-21
+2		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+3		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+4		Rally House	Prod. DTM	Rally House		122.00	     	01:36	8A	2025-07-29
+5		Rally House	Prod. DTM	Rally House		122.00	     	01:36	8A	2025-07-29
+6		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+7		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+8		Gasolina	Daddy Yankee	Barrio Fino (Bonus Track Version)		96.00	     	03:12	4A	2025-03-03
+9		ASHAMED	HEALTH	ASHAMED		81.00	     	03:01	1A	2025-07-18
+10		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+11		Soggy Bottomz	Cut & Run Crew			175.00	     	05:00	7B	2025-04-19

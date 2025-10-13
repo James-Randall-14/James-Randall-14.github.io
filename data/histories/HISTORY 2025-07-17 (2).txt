@@ -1,0 +1,39 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12
+2		stayinit	Fred again.. Lil Yachty Overmono	USB		134.00	     	04:35	6A	2024-12-12
+3		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+4		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+5		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+6		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+7		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+8		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+9		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12
+10		stayinit	Fred again.. Lil Yachty Overmono	USB		134.00	     	04:35	6A	2024-12-12
+11		BerwynGesaffNeighbours	Fred again.. Berwyn	USB		102.00	     	02:03	7A	2024-12-12
+12		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+13		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+14		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+15		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+16		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+17		All The People	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	134.00	     	06:30	6A	2024-11-06
+18		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+19		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+20		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+21		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+22		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+23		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+24		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+25		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+26		Mouth to Mouth	Douglas Dare Rival Consoles	Omni		141.00	     	04:05	2B	2025-03-03
+27		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+28		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+29		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+30		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+31		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+32		Adagio For Strings (CRAAIG Hard Edit)				154.00	     	06:15	7B	2024-11-16
+33		Insomnia (Road to Nowhere)	Kas:st	Road to Nowhere		154.00	     	06:51	1A	2024-12-29
+34		Eeze Up	The Glitch Mob	Eeze Up		155.00	     	03:24	4A	2025-06-17
+35		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+36		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+37		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+38		through the light	dracodraco	through the light	Dance	165.00	     	01:36	4B	2024-11-17

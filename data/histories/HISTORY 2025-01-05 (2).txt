@@ -1,0 +1,31 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Astrous (Original Mix)	Pessimist	Pagans		126.00	     	09:15	1A	2025-01-03
+2		Absolute Magnitude	Exium	A Sensible Alternative to Emotion		128.00	     	05:53	2B	2025-01-03
+3		Opticon	Tensal	Unequal Struggle EP		128.00	     	06:01	8B	2025-01-03
+4		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+5		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+6		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+7		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+8		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+9		Poison	C-System	Poison		138.00	     	05:35	2A	2025-01-03
+10		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+11		Deep Space	Alignment	Close Your Eyes EP	Techno	148.00	     	05:37	7A	2024-12-01
+12		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+13		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+14		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+15		Harder Better Faster Stronger	Daft Punk	Discovery	Dance	123.48	     	03:46	11A	2024-11-27
+16		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+17		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+18		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+19		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+20		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+21		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+22		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+23		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+24		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+25		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+26		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+27		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+28		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+29		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+30		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12

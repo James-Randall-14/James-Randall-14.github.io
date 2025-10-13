@@ -1,0 +1,9 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+2		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+3		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+4		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11
+5		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+6		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11
+7		All The People	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	134.00	     	06:30	6A	2024-11-06
+8		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16

@@ -1,0 +1,20 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		I CAN’T LOSE YOU	Confidence Man	I CAN'T LOSE YOU		136.00	     	02:35	11A	2025-08-05
+2		Creepy Crawlers (feat. Golemm)	BUGCORE	Creepy Crawlers (feat. Golemm)		133.00	     	03:09	11A	2025-08-05
+3		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+4		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+5		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+6		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+7		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+8		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+9		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+10		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+11		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+12		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+13		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+14		No Sleep (6AM)	Matroda Meryll	No Sleep (6AM)		126.00	     	02:26	2A	2025-04-26
+15		Can’t Fight The Feeling	Matroda	Can’t Fight The Feeling		126.00	     	02:51	2A	2025-04-26
+16		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+17		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+18		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+19		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10

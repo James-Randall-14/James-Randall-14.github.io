@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		SOJU	Yaego wzrdd	TELEVISTA		114.00	     	03:47	3A	2025-03-21
+2		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+3		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+4		ES19.2	Snts	SNTS		129.00	     	06:04	12A	2025-02-13
+5		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12

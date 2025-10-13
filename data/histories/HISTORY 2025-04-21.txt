@@ -1,0 +1,2 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Entropyyy	Lorn	Entropyyy - Single		88.36	     	04:53	6A	2024-11-11

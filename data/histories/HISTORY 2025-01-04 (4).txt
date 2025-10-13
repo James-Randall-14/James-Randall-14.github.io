@@ -1,0 +1,9 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Everything is romantic	Charli Xcx	Brat and it’s completely different but also still brat	Dance	149.95	     	03:23	6A	2024-11-11
+2		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+3		Mist (Original Mix)	Pessimist	Pagans		126.00	     	06:44	9B	2025-01-03
+4		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03
+5		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03
+6		Day Of Riddance	CW/A	Day Of Riddance		126.00	     	05:08	6B	2025-01-03
+7		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+8		Astrous (Original Mix)	Pessimist	Pagans		126.00	     	09:15	1A	2025-01-03

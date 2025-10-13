@@ -1,0 +1,36 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+2		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+3		Mo Bamba	Sheck Wes	MUDBOY		146.00	     	03:03	9A	2025-03-21
+4		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+5		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+6		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+7		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+8		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+9		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+10		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+11		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+12		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+13		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+14		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+15		Mamushi (Remix) [feat. TWICE]	Megan Thee Stallion Twice	MEGAN: ACT II		81.00	     	02:35	5A	2025-03-10
+16		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+17		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+18		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+19		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+20		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+21		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+22		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+23		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+24		Blow	Kesha	Blow		120.00	     	03:40	10A	2025-03-21
+25		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+26		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+27		Water	Tyla	Water		117.00	     	03:20	2A	2025-04-27
+28		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+29		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+30		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+31		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+32		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+33		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+34		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+35		Fire	Imanu			128.00	     	03:31	9A	2025-05-08

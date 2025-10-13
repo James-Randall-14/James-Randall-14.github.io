@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03
+2		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+3		Poison	C-System	Poison		138.00	     	05:35	2A	2025-01-03
+4		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+5		Deep Space	Alignment	Close Your Eyes EP	Techno	148.00	     	05:37	7A	2024-12-01
+6		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03

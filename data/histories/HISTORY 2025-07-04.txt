@@ -1,0 +1,14 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+2		Boy's a liar Pt. 2	PinkPantheress Ice Spice	Boy's a liar Pt. 2		133.00	     	02:11	7B	2025-05-10
+3		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+4		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+5		I Kissed A Girl	Katy Perry	One Of The Boys		130.00	     	02:59	8A	2025-04-05
+6		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+7		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+8		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+9		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+10		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+11		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+12		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+13		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10

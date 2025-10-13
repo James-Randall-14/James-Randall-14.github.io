@@ -1,0 +1,7 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+2		Dream Roller	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	165.00	     	06:47	5A	2024-11-06
+3		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+4		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+5		Nova	Four Tet Burial	Nova / Moth	Ambient	128.02	     	05:42	11A	2024-11-11
+6		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11

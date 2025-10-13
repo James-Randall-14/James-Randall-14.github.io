@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+2		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+3		You Got Me	Yunna	All The People Vol. 1		150.00	     	04:35	12B	2025-06-17
+4		NFINITY	The Glitch Mob	NFINITY		144.00	     	04:08	4A	2025-06-17
+5		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+6		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+7		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+8		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+9		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+10		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+11		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+12		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+13		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+14		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+15		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+16		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+17		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11

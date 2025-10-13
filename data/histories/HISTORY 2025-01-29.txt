@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		I'm here	Sorza	Pillars		150.00	     	03:54	3A	2024-12-19
+2		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+3		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+4		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25

@@ -1,0 +1,69 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+3		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+4		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+5		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+6		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+7		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+8		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+9		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+10		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+11		EXCESS	HEALTH Perturbator	DISCO4 :: PART II		100.00	     	04:24	1B	2025-07-18
+12		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17
+13		Get Into It (Yuh)	Doja Cat	Planet Her		92.00	     	02:18	1A	2025-03-13
+14		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+15		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+16		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+17		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+18		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+19		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+20		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+21		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+22		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+23		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+24		Angels in Tibet	Amaarae	Fountain Baby		140.00	     	02:22	5A	2025-05-06
+25		Give It To Me	Borne	Give It To Me		140.00	     	02:17	5A	2025-06-04
+26		Pretty Misty (99 Nissan Patrol Remix)	Mincy	XTR-EMIX		140.00	     	03:46	5A	2025-06-17
+27		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+28		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+29		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+30		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+31		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+32		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+33		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+34		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+35		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+36		No Hands (feat. Roscoe Dash & Wale)	Waka Flocka Flame	Flockaveli		131.50	     	04:23	12B	2025-05-10
+37		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+38		Jungle (Rico Nasty Remix)	Fred again..	USB		134.00	     	03:33	12B	2024-12-12
+39		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+40		Everything is romantic	Charli Xcx	Brat and it’s completely different but also still brat	Dance	149.95	     	03:23	6A	2024-11-11
+41		Calcium (sadfem Remix)	Falinee	Calcium (sadfem Remix)	Electronic	155.00	     	02:59	7A	2024-11-17
+42		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+43		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+44		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+45		Europa	Yaego	87.6 Fm		150.39	     	03:49	10A	2024-11-17
+46		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+47		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+48		Die Welt Brennt	Klangkuenstler Obernauer	Die Welt Brennt		150.00	     	05:10	8A	2025-02-06
+49		Werewolf Disco Club	I Hate Models	Werewolf Disco Club		146.00	     	09:23	8A	2025-02-13
+50		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+51		Forgiveness of Blood	Tensal	Forgiveness of Blood		138.00	     	06:39	6A	2025-04-07
+52		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+53		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+54		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+55		Like That (feat. Gucci Mane)	Doja Cat Gucci Mane	Hot Pink		106.00	     	02:43	11A	2025-03-13
+56		DÁKITI	Bad Bunny JHAYCO	DÁKITI		110.00	     	03:25	9A	2025-04-27
+57		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+58		Muñekita	Kali Uchis El Alfa JT	Muñekita		112.00	     	03:39	4A	2025-04-05
+59		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+60		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+61		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+62		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+63		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+64		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+65		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+66		Mo Bamba	Sheck Wes	MUDBOY		146.00	     	03:03	9A	2025-03-21
+67		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+68		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11

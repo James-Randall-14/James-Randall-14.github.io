@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+2		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+3		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+4		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+5		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+6		Pretty Misty (99 Nissan Patrol Remix)	Mincy	XTR-EMIX		140.00	     	03:46	5A	2025-06-17
+7		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+8		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+9		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+10		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+11		ASHAMED	HEALTH	ASHAMED		81.00	     	03:01	1A	2025-07-18
+12		BE QUIET AND DRIVE (FAR AWAY)	HEALTH	RAT WARS ULTRA EDITION		165.00	     	03:07	3B	2025-07-18
+13		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+14		Party in the USA	Miley Cyrus	Pop Nostalgia		96.00	     	03:23	2A	2025-07-18
+15		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+16		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+17		Gasolina	Daddy Yankee	Barrio Fino (Bonus Track Version)		96.00	     	03:12	4A	2025-03-03

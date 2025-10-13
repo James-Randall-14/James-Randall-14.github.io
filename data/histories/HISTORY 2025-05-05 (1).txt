@@ -1,0 +1,9 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+2		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+3		Umbrella	Rihanna JAY Z	Good Girl Gone Bad: Reloaded		87.00	     	04:36	3B	2025-03-13
+4		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+5		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+6		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+7		Like That (feat. Gucci Mane)	Doja Cat Gucci Mane	Hot Pink		106.00	     	02:43	11A	2025-03-13
+8		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05

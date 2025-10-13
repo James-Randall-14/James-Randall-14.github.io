@@ -1,0 +1,27 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+2		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+3		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+4		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+5		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+6		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+7		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+8		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03
+9		The Fox (What Does the Fox Say?)	Ylvis	The Fox (What Does the Fox Say?)	Pop	128.00	     	03:33	12A	2024-12-01
+10		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+11		The Fox (What Does the Fox Say?)	Ylvis	The Fox (What Does the Fox Say?)	Pop	128.00	     	03:33	12A	2024-12-01
+12		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+13		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+14		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+15		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+16		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+17		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+18		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+19		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+20		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+21		Are U Ok (Extended Mix)	JVCKPOTZ	Are U Ok		125.00	     	03:08	9A	2025-04-19
+22		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+23		BEATS FOR THE UNDERGROUND	Mau P	BEATS FOR THE UNDERGROUND		126.00	     	03:34	3A	2025-05-03
+24		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+25		No Sleep (6AM)	Matroda Meryll	No Sleep (6AM)		126.00	     	02:26	2A	2025-04-26
+26		Saturday Love (Burnsy Edit)	Cherrelle			128.00	     	04:20	2A	2025-04-19

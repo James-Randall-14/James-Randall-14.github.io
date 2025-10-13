@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+2		Shoreditch	Vrdnyn	Shoreditch	House	132.00	     	02:29	2A	2024-11-17
+3		Turismo	Vrdnyn	Turismo	House	130.00	     	02:18	2A	2024-11-17
+4		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+5		ES19.2	Snts	SNTS		129.00	     	06:04	12A	2025-02-13
+6		ES19.4	Snts	SNTS		128.00	     	06:17	7A	2025-02-13
+7		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+8		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+9		Droxine (Digital Bonus)	Exium	Mass Control		128.00	     	05:04	11B	2025-01-03
+10		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+11		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+12		Die Welt Brennt	Klangkuenstler Obernauer	Die Welt Brennt		150.00	     	05:10	8A	2025-02-06
+13		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17
+14		Losing Control	Odd Mob OMNOM	Losing Control		134.00	     	02:45	6A	2025-04-26
+15		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+16		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+17		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17

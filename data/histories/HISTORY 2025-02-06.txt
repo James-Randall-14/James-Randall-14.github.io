@@ -1,0 +1,11 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+2		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+3		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+4		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+5		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+6		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+7		Rigid	Rosa Anschütz	Rr4		135.00	     	06:53	12A	2025-02-05
+8		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+9		Walpurgis Night	I Hate Models Zanias	Midnight Cults		132.00	     	08:54	10A	2025-01-03
+10		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19

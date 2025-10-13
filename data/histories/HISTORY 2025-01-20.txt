@@ -1,0 +1,19 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+2		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+3		The Moment	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	04:35	9A	2024-11-06
+4		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+5		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+6		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+7		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+8		Sinais	Bianca Oblivion ONHELL	Sinais (The Glitch Mob Remix)		140.00	     	03:25	6A	2024-12-20
+9		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+10		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+11		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+12		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+13		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+14		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+15		Insomnia (Road to Nowhere)	Kas:st	Road to Nowhere		154.00	     	06:51	1A	2024-12-29
+16		Twin Souls	I Hate Models	Twin Souls		151.50	     	07:29	7A	2025-01-03
+17		Deep Space	Alignment	Close Your Eyes EP	Techno	148.00	     	05:37	7A	2024-12-01
+18		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03

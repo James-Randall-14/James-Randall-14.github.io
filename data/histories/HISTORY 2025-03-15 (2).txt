@@ -1,0 +1,16 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Parallel Transport	Polar Inertia	The Last Vehicle EP		123.00	     	11:35	11A	2025-02-13
+2		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03
+3		Droxine (Digital Bonus)	Exium	Mass Control		128.00	     	05:04	11B	2025-01-03
+4		Mist (Original Mix)	Pessimist	Pagans		126.00	     	06:44	9B	2025-01-03
+5		Opticon	Tensal	Unequal Struggle EP		128.00	     	06:01	8B	2025-01-03
+6		Absolute Magnitude	Exium	A Sensible Alternative to Emotion		128.00	     	05:53	2B	2025-01-03
+7		Monolith	Exium	Mass Control		128.00	     	05:07	2A	2025-01-03
+8		Deep Learning	Symmetrical Behaviour	Deep Learning		130.00	     	06:05	1A	2025-01-03
+9		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+10		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+11		ES19.2	Snts	SNTS		129.00	     	06:04	12A	2025-02-13
+12		Mass Control	Exium	Mass Control		127.00	     	05:40	7A	2025-01-03
+13		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+14		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+15		ES19.4	Snts	SNTS		128.00	     	06:17	7A	2025-02-13

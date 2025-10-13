@@ -1,0 +1,48 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+2		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+3		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+4		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+5		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+6		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+7		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+8		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11
+9		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+10		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+11		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+12		High Rezolution	The Glitch Mob	High Rezolution		160.00	     	04:05	4A	2025-06-17
+13		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+14		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+15		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+16		Eeze Up	The Glitch Mob	Eeze Up		155.00	     	03:24	4A	2025-06-17
+17		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+18		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+19		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+20		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+21		You Got Me	Yunna	All The People Vol. 1		150.00	     	04:35	12B	2025-06-17
+22		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+23		NFINITY	The Glitch Mob	NFINITY		144.00	     	04:08	4A	2025-06-17
+24		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+25		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+26		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+27		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+28		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+29		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+30		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+31		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+32		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+33		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+34		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+35		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+36		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+37		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+38		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+39		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+40		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+41		Blow	Kesha	Blow		120.00	     	03:40	10A	2025-03-21
+42		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+43		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+44		Water	Tyla	Water		117.00	     	03:20	2A	2025-04-27
+45		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+46		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+47		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05

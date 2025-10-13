@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+2		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+3		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+4		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+5		Heads Will Roll (Strobez Flip)				135.00	     	03:52	1A	2024-12-01
+6		stayinit	Fred again.. Lil Yachty Overmono	USB		134.00	     	04:35	6A	2024-12-12
+7		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+8		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+9		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12

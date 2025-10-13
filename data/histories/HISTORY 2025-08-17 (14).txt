@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+2		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+3		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+4		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+5		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21

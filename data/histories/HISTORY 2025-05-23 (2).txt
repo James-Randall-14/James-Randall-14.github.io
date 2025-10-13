@@ -1,0 +1,22 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+2		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+3		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+4		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+5		Animal Mother	Former	Hollow Eye		135.00	     	03:47	9A	2025-05-08
+6		dataDyne	Ternion Sound	Digital Artifice		140.00	     	03:48	9A	2024-11-11
+7		Intimacy	Ternion Sound	Digital Artifice		140.00	     	03:41	9A	2024-11-11
+8		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+9		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+10		Howler	Ternion Sound	Digital Artifice		140.00	     	04:39	12B	2024-11-11
+11		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11
+12		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+13		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+14		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+15		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+16		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+17		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03
+18		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+19		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+20		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+21		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08

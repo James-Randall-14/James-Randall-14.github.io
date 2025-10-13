@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17
+2		DÁKITI	Bad Bunny JHAYCO	DÁKITI		110.00	     	03:25	9A	2025-04-27
+3		SOJU	Yaego wzrdd	TELEVISTA		114.00	     	03:47	3A	2025-03-21
+4		Parallel Transport	Polar Inertia	The Last Vehicle EP		123.00	     	11:35	11A	2025-02-13
+5		Die Welt Brennt	Klangkuenstler Obernauer	Die Welt Brennt		150.00	     	05:10	8A	2025-02-06
+6		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+7		Poetry	Stella Bossi Auk.	Poetry		133.00	     	03:31	5A	2025-02-06

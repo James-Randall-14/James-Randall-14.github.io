@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+2		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+3		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+4		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08

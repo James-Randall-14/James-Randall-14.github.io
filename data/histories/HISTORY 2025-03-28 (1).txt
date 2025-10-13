@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+2		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+3		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+4		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+5		Dream Roller	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	165.00	     	06:47	5A	2024-11-06
+6		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+7		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+8		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+9		M3 N Min3	Femtanyl & Danny Brown	M3 N Min3 - Single		150.00	     	02:11	11A	2024-11-17
+10		Calcium (sadfem Remix)	Falinee	Calcium (sadfem Remix)	Electronic	155.00	     	02:59	7A	2024-11-17
+11		Again	Snow Strippers	April Mixtape 3		154.00	     	03:03	11A	2025-01-03

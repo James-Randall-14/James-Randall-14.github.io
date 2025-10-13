@@ -1,0 +1,46 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Like That (feat. Gucci Mane)	Doja Cat Gucci Mane	Hot Pink		106.00	     	02:43	11A	2025-03-13
+2		House 2	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	125.00	     	00:01	6A	2024-12-06
+3		Shake It To The Max (FLY) [Remix]	Moliy Silent Addy skillibeng Shenseea	Shake It To The Max (FLY) [Remix]		98.00	     	02:58	5A	2025-08-05
+4		Flying Rally	Prod. DTM	Flying Rally		122.00	     	01:55	6A	2025-07-29
+5		House 1	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	123.00	     	00:01	1A	2024-12-06
+6		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+7		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+8		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+9		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+10		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+11		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+12		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+13		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+14		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+15		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10
+16		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10
+17		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+18		360	Charli Xcx	Brat and it’s completely different but also still brat	Dance	120.00	     	02:13	8B	2024-11-11
+19		Music Sounds Better With You	Alan Braxe Stardust Benjamin Diamond Thomas Bangalter	Music Sounds Better With You	House	124.21	     	06:43	4A	2024-11-20
+20		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+21		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+22		BE QUIET AND DRIVE (FAR AWAY)	HEALTH	RAT WARS ULTRA EDITION		165.00	     	03:07	3B	2025-07-18
+23		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+24		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+25		Everything is romantic	Charli Xcx	Brat and it’s completely different but also still brat	Dance	149.95	     	03:23	6A	2024-11-11
+26		Mo Bamba	Sheck Wes	MUDBOY		146.00	     	03:03	9A	2025-03-21
+27		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+28		Dior	Pop Smoke	Meet The Woo		142.00	     	03:36	6A	2025-05-10
+29		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+30		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+31		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+32		Mo Bamba	Sheck Wes	MUDBOY		146.00	     	03:03	9A	2025-03-21
+33		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+34		Nicki Minaj - Anaconda (Boss In Drama Remix)				130.00	     	03:34	3A	2025-03-03
+35		I Kissed A Girl	Katy Perry	One Of The Boys		130.00	     	02:59	8A	2025-04-05
+36		Money Longer	Lil Uzi Vert	Lil Uzi Vert vs. The World		136.00	     	03:19	4A	2025-05-10
+37		HOT TO GO!	Chappell Roan	The Rise and Fall of a Midwest Princess		140.00	     	03:04	2B	2025-05-04
+38		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+39		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10
+40		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+41		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05
+42		DÁKITI	Bad Bunny JHAYCO	DÁKITI		110.00	     	03:25	9A	2025-04-27
+43		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+44		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10
+45		Harder Better Faster Stronger	Daft Punk	Discovery	Dance	123.48	     	03:46	11A	2024-11-27

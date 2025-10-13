@@ -1,0 +1,21 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+2		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+3		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+4		Everything Connected	Jon Hopkins	Singularity	Electronic	125.00	     	10:30	8B	2024-11-11
+5		Opal (Four Tet Remix)	Bicep	Opal (Four Tet Remix)	Electronic	127.00	     	08:14	8A	2024-11-11
+6		Midnight (Jon Hopkins Remix)	Coldplay	Midnight (Jon Hopkins Remix)	Rock	127.00	     	10:05	2A	2024-11-11
+7		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+8		Turismo	Vrdnyn	Turismo	House	130.00	     	02:18	2A	2024-11-17
+9		Deep Blue	Montee	ONU	Dance	120.00	     	04:16	7A	2024-11-11
+10		Palm Beach Banger	Fisher	Palm Beach Banger	House	126.00	     	03:53	4A	2024-11-17
+11		Turismo	Vrdnyn	Turismo	House	130.00	     	02:18	2A	2024-11-17
+12		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+13		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+14		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+15		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+16		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+17		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+18		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+19		Detroit	Ternion Sound	Digital Artifice		140.00	     	04:16	10B	2024-11-11
+20		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11

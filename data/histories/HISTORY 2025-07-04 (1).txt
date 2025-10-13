@@ -1,0 +1,59 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Blow	Kesha	Blow		120.00	     	03:40	10A	2025-03-21
+2		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+3		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+4		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+5		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+6		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+7		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+8		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+9		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+10		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+11		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03
+12		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+13		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+14		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+15		Timber	Pitbull Kesha	Timber		130.00	     	03:24	1B	2025-05-11
+16		Last Friday Night (T.G.I.F.)	Katy Perry	Teenage Dream: The Complete Confection		126.00	     	03:50	1A	2025-04-05
+17		Beauty And A Beat	Justin Bieber Nicki Minaj	Believe		128.00	     	03:48	8B	2025-04-06
+18		Beautiful People (Extended)	David Guetta Sia	Beautiful People		127.00	     	04:20	8A	2025-03-13
+19		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+20		Memories (feat. Kid Cudi)	David Guetta Kid Cudi	Memories (feat. Kid Cudi)		130.00	     	03:30	3A	2025-05-10
+21		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+22		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+23		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+24		Starships	Nicki Minaj	Pink Friday ... Roman Reloaded (Deluxe)		125.00	     	03:30	10A	2025-05-06
+25		Super Bass	Nicki Minaj	Pink Friday (Complete Edition)		127.00	     	03:20	1B	2025-04-27
+26		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+27		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+28		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+29		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+30		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+31		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+32		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+33		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+34		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+35		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+36		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+37		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+38		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+39		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+40		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+41		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+42		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+43		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+44		Say U Luv Me (salute Remix)	Karma Kid			137.00	     	04:31	8A	2025-04-19
+45		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19
+46		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+47		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+48		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+49		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+50		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+51		HOT TO GO!	Chappell Roan	The Rise and Fall of a Midwest Princess		140.00	     	03:04	2B	2025-05-04
+52		Applause	Lady Gaga	ARTPOP		140.00	     	03:32	6A	2025-04-05
+53		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+54		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+55		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+56		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+57		Hush	Borne Alexis B	Hush		140.00	     	02:03	7A	2025-06-04
+58		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04

@@ -1,0 +1,43 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+2		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+3		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+4		Palm Beach Banger	Fisher	Palm Beach Banger	House	126.00	     	03:53	4A	2024-11-17
+5		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+6		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+7		Deep Blue	Montee	ONU	Dance	120.00	     	04:16	7A	2024-11-11
+8		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+9		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+10		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+11		Drawn Out Like An Ache	Lorn	Remnant		120.00	     	04:10	12A	2024-11-11
+12		Bicycle	Yaego & Jas	Planet Chaser		125.00	     	02:08	12B	2024-11-17
+13		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+14		Apollo	Space 92	Apollo	Dance	135.00	     	05:49	6A	2024-11-16
+15		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+16		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+17		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+18		Cd Romance	Yaego	87.6 Fm		134.45	     	02:51	1A	2024-11-17
+19		Intimacy	Ternion Sound	Digital Artifice		140.00	     	03:41	9A	2024-11-11
+20		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+21		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+22		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+23		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+24		dataDyne	Ternion Sound	Digital Artifice		140.00	     	03:48	9A	2024-11-11
+25		Concrete Bench	Ternion Sound	Digital Artifice		140.00	     	03:41	4A	2024-11-11
+26		Cut Slope	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	144.00	     	04:50	5A	2024-11-06
+27		Detroit	Ternion Sound	Digital Artifice		140.00	     	04:16	10B	2024-11-11
+28		All The People	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	134.00	     	06:30	6A	2024-11-06
+29		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+30		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+31		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+32		Opal (Four Tet Remix)	Bicep	Opal (Four Tet Remix)	Electronic	127.00	     	08:14	8A	2024-11-11
+33		Midnight (Jon Hopkins Remix)	Coldplay	Midnight (Jon Hopkins Remix)	Rock	127.00	     	10:05	2A	2024-11-11
+34		Singularity (Edit)	Jon Hopkins	Singularity (Edit)	Electronic	133.00	     	04:27	2A	2024-11-11
+35		part vi - solar goddess return	Jon Hopkins Vylana 7RAYS Cherif Hashizume Ishq	RITUAL	Electronic	133.00	     	04:48	2B	2024-11-11
+36		Sundial	Bicep	Isles	Electronic	135.00	     	04:35	4B	2024-11-11
+37		Nova	Four Tet Burial	Nova / Moth	Ambient	128.02	     	05:42	11A	2024-11-11
+38		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+39		The Flavor	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	05:16	4A	2024-11-06
+40		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+41		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+42		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20

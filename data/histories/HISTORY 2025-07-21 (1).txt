@@ -1,0 +1,21 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+2		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+3		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+4		Don't Stop Believin' (2024 Remaster)	Journey	Greatest Hits (2024 Remaster)		120.00	     	04:10	12B	2025-04-06
+5		Tear in My Heart	twenty one pilots	Blurryface		120.00	     	03:08	10B	2025-07-18
+6		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+7		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+8		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+9		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+10		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+11		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+12		Nova	Four Tet Burial	Nova / Moth	Ambient	128.02	     	05:42	11A	2024-11-11
+13		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+14		Sorry I Am Late (Pig&Dan Remix)	Kollektiv Turmstrasse	Sorry I Am Late (Remixes)		125.00	     	08:05	11A	2025-03-21
+15		Monolith	Exium	Mass Control		128.00	     	05:07	2A	2025-01-03
+16		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+17		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+18		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+19		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+20		Go Again	Borne	Go Again		140.00	     	02:10	7B	2025-06-04

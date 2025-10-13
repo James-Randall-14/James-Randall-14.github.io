@@ -1,0 +1,21 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Soggy Bottomz	Cut & Run Crew			175.00	     	05:00	7B	2025-04-19
+2		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+3		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+4		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+5		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+6		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+7		Empress	Imanu	Unfold		172.00	     	02:40	2A	2025-05-08
+8		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+9		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+10		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+11		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+12		High Rezolution	The Glitch Mob	High Rezolution		160.00	     	04:05	4A	2025-06-17
+13		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+14		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+15		Ibitbt	3l3d3p	Ibitbt - Single		170.00	     	02:24	12B	2024-11-17
+16		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11
+17		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+18		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+19		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+20		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11

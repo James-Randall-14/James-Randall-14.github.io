@@ -1,0 +1,29 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+2		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+3		Muñekita	Kali Uchis El Alfa JT	Muñekita		112.00	     	03:39	4A	2025-04-05
+4		SOJU	Yaego wzrdd	TELEVISTA		114.00	     	03:47	3A	2025-03-21
+5		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+6		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+7		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+8		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+9		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+10		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+11		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+12		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+13		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+14		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+15		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+16		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+17		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+18		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+19		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+20		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+21		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05
+22		VOY A LLeVARTE PA PR	Bad Bunny	DeBÍ TiRAR MáS FOToS		100.00	     	02:36	9A	2025-04-05
+23		Gasolina	Daddy Yankee	Barrio Fino (Bonus Track Version)		96.00	     	03:12	4A	2025-03-03
+24		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+25		Get Into It (Yuh)	Doja Cat	Planet Her		92.00	     	02:18	1A	2025-03-13
+26		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+27		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+28		Mamushi (Remix) [feat. TWICE]	Megan Thee Stallion Twice	MEGAN: ACT II		81.00	     	02:35	5A	2025-03-10

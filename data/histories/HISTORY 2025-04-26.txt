@@ -1,0 +1,156 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Can’t Fight The Feeling	Matroda	Can’t Fight The Feeling		126.00	     	02:51	2A	2025-04-26
+2		No Sleep (6AM)	Matroda Meryll	No Sleep (6AM)		126.00	     	02:26	2A	2025-04-26
+3		Dress Code	Mau P			128.00	     	03:23	10B	2025-04-26
+4		Revolution 909	Daft Punk	Homework		126.50	     	05:35	10A	2025-02-13
+5		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+6		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+7		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+8		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+9		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+10		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+11		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+12		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+13		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+14		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+15		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+16		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+17		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+18		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+19		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+20		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+21		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+22		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+23		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+24		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+25		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+26		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+27		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+28		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+29		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+30		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+31		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+32		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+33		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+34		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+35		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+36		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+37		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+38		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+39		360	Charli Xcx	Brat and it’s completely different but also still brat	Dance	120.00	     	02:13	8B	2024-11-11
+40		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+41		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+42		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+43		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+44		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+45		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+46		Gimme Gimme Gime (A Man After Midnight)	Fat Tony			128.00	     	02:38	7A	2025-03-06
+47		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+48		No Sleep (6AM)	Matroda Meryll	No Sleep (6AM)		126.00	     	02:26	2A	2025-04-26
+49		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+50		Tia Tamera (feat. Rico Nasty)	Doja Cat Rico Nasty	Amala (Deluxe Version)		120.00	     	03:32	4A	2025-03-10
+51		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+52		Blow	Kesha	Blow		120.00	     	03:40	10A	2025-03-21
+53		Are U Ok (Extended Mix)	JVCKPOTZ	Are U Ok		125.00	     	03:08	9A	2025-04-19
+54		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+55		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+56		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+57		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+58		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+59		Pepas	Farruko	Pepas		130.00	     	04:47	8A	2025-03-10
+60		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+61		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+62		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+63		Can’t Fight The Feeling	Matroda	Can’t Fight The Feeling		126.00	     	02:51	2A	2025-04-26
+64		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+65		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+66		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+67		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+68		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+69		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+70		VHS RAVE	Tiësto Swimming Paul	VHS RAVE		128.00	     	03:11	12A	2025-03-21
+71		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+72		Losing Control	Odd Mob OMNOM	Losing Control		134.00	     	02:45	6A	2025-04-26
+73		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19
+74		Say U Luv Me (salute Remix)	Karma Kid			137.00	     	04:31	8A	2025-04-19
+75		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+76		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+77		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+78		Push (feat. OFFAIAH)	Skrillex Hamdi Taichu OFFAIAH	Push (feat. OFFAIAH)		140.00	     	03:05	1A	2024-12-12
+79		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+80		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+81		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+82		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+83		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+84		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+85		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+86		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+87		Mr. Brightside	The Killers	Hot Fuss		148.00	     	03:43	3B	2025-03-21
+88		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+89		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+90		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+91		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+92		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+93		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+94		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+95		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+96		Heartbreak	Bonobo Totally Enormous Extinct Dinosaurs	Heartbreak		127.00	     	04:25	5B	2025-03-13
+97		It's Not Right But It's Okay	Mr. Belt & Wezol	It's Not Right But It's Okay		128.00	     	04:01	5A	2025-04-11
+98		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+99		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+100		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+101		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+102		SOJU	Yaego wzrdd	TELEVISTA		114.00	     	03:47	3A	2025-03-21
+103		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+104		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+105		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+106		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+107		I Kissed A Girl	Katy Perry	One Of The Boys		130.00	     	02:59	8A	2025-04-05
+108		Beautiful People (Extended)	David Guetta Sia	Beautiful People		127.00	     	04:20	8A	2025-03-13
+109		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+110		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+111		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+112		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+113		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+114		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+115		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+116		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+117		Siren	Tourist	Siren		127.72	     	06:22	4A	2025-04-07
+118		Finally	Swedish House Mafia Alicia Keys	Finally		131.00	     	03:35	4A	2025-04-07
+119		Redlight	Swedish House Mafia Sting	Paradise Again		125.00	     	04:02	6A	2025-04-07
+120		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+121		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+122		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+123		Nicki Minaj - Anaconda (Boss In Drama Remix)				130.00	     	03:34	3A	2025-03-03
+124		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+125		You Make Me Feel... (feat. Sabi)	Cobra Starship Sabi	Night Shades		132.00	     	03:35	6A	2025-04-05
+126		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03
+127		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+128		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+129		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+130		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+131		Die Young	Kesha	Feel Good Friday		128.00	     	03:33	12B	2025-04-05
+132		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+133		Beauty And A Beat	Justin Bieber Nicki Minaj	Believe		128.00	     	03:48	8B	2025-04-06
+134		Last Friday Night (T.G.I.F.)	Katy Perry	Teenage Dream: The Complete Confection		126.00	     	03:50	1A	2025-04-05
+135		TiK ToK	Kesha	Animal (Expanded Edition)		120.00	     	03:19	6B	2025-04-05
+136		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+137		Tití Me Preguntó	Bad Bunny	Un Verano Sin Ti		111.00	     	04:03	4A	2025-04-05
+138		Muñekita	Kali Uchis El Alfa JT	Muñekita		112.00	     	03:39	4A	2025-04-05
+139		Paparazzi	Lady Gaga	The Fame		115.00	     	03:28	4B	2025-04-05
+140		Bad Romance	Lady Gaga	The Fame Monster		119.00	     	04:54	8A	2025-04-05
+141		PURE/HONEY	Beyoncé	RENAISSANCE		124.00	     	04:48	2A	2025-04-05
+142		Dress Code	Mau P			128.00	     	03:23	10B	2025-04-26
+143		One More Time	Daft Punk	Discovery	Dance	122.88	     	05:20	10B	2024-11-27
+144		VOY A LLeVARTE PA PR	Bad Bunny	DeBÍ TiRAR MáS FOToS		100.00	     	02:36	9A	2025-04-05
+145		Gasolina	Daddy Yankee	Barrio Fino (Bonus Track Version)		96.00	     	03:12	4A	2025-03-03
+146		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+147		Get Into It (Yuh)	Doja Cat	Planet Her		92.00	     	02:18	1A	2025-03-13
+148		MONTERO (Call Me By Your Name)	Lil Nas X	MONTERO (Call Me By Your Name)		89.50	     	02:17	12A	2025-03-13
+149		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+150		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+151		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+152		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+153		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+154		Mamushi (Remix) [feat. TWICE]	Megan Thee Stallion Twice	MEGAN: ACT II		81.00	     	02:35	5A	2025-03-10
+155		Umbrella	Rihanna JAY Z	Good Girl Gone Bad: Reloaded		87.00	     	04:36	3B	2025-03-13

@@ -1,0 +1,17 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+2		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+3		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+4		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+5		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+6		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+7		Howler	Ternion Sound	Digital Artifice		140.00	     	04:39	12B	2024-11-11
+8		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+9		dataDyne	Ternion Sound	Digital Artifice		140.00	     	03:48	9A	2024-11-11
+10		Intimacy	Ternion Sound	Digital Artifice		140.00	     	03:41	9A	2024-11-11
+11		Portland	Ternion Sound	Digital Artifice		140.00	     	03:44	7A	2024-11-11
+12		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+13		Hush	Borne Alexis B	Hush		140.00	     	02:03	7A	2025-06-04
+14		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+15		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+16		Collider	Noisia The Glitch Mob	The Resonance VI		132.00	     	03:59	8A	2025-06-17

@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+2		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+3		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+4		Europa	Yaego	87.6 Fm		150.39	     	03:49	10A	2024-11-17

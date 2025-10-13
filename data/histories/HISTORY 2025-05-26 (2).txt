@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+2		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+3		The Fox (What Does the Fox Say?)	Ylvis	The Fox (What Does the Fox Say?)	Pop	128.00	     	03:33	12A	2024-12-01
+4		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+5		Turismo	Vrdnyn	Turismo	House	130.00	     	02:18	2A	2024-11-17

@@ -1,0 +1,65 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+2		Hello goodbye (jungle gym flip)	dakist4t			171.00	     	03:00	9B	2025-07-29
+3		BE QUIET AND DRIVE (FAR AWAY)	HEALTH	RAT WARS ULTRA EDITION		165.00	     	03:07	3B	2025-07-18
+4		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+5		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+6		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+7		Soggy Bottomz	Cut & Run Crew			175.00	     	05:00	7B	2025-04-19
+8		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+9		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+10		We Are Making Out	Mura Masa yeule	Curve 1		123.00	     	02:50	4B	2025-06-04
+11		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+12		BEATS FOR THE UNDERGROUND	Mau P	BEATS FOR THE UNDERGROUND		126.00	     	03:34	3A	2025-05-03
+13		Pull Out	Artbat Kas:st Losless	Pull Out		128.00	     	04:47	4A	2025-02-06
+14		Vertigo	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	130.00	     	05:17	4A	2024-11-06
+15		Peace	The Glitch Mob	Peace		133.00	     	03:54	3A	2025-06-17
+16		Lifetime	Tobiahs	Lifetime		135.00	     	02:38	3A	2025-05-04
+17		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+18		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+19		Vapor	Ternion Sound	Digital Artifice		140.00	     	04:24	1A	2024-11-11
+20		Give It To Me	Borne	Give It To Me		140.00	     	02:17	5A	2025-06-04
+21		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+22		NFINITY	The Glitch Mob	NFINITY		144.00	     	04:08	4A	2025-06-17
+23		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+24		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+25		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+26		Better Off Alone	Alice DJ	Who Needs Guitars Anyway? (Album)		136.98	     	03:38	1B	2025-03-21
+27		Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		134.00	     	04:10	6B	2025-01-06
+28		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+29		Losing Control	Odd Mob OMNOM	Losing Control		134.00	     	02:45	6A	2025-04-26
+30		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+31		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+32		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+33		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+34		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+35		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+36		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+37		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+38		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+39		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+40		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+41		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+42		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+43		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+44		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+45		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+46		4U	Matroda Martin Ikin Sian-Lee	4U		128.00	     	03:00	7A	2025-05-03
+47		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+48		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+49		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+50		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+51		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+52		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+53		look what you started	yoshienjoyer	look what you started		140.00	     	03:22	10B	2025-07-29
+54		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+55		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+56		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+57		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+58		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+59		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+60		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+61		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+62		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+63		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+64		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08

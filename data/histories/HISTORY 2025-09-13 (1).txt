@@ -1,0 +1,19 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Mo Bamba	Sheck Wes	MUDBOY		146.00	     	03:03	9A	2025-03-21
+2		FE!N (feat. Playboi Carti)	Travis Scott Playboi Carti	UTOPIA		148.00	     	03:11	2A	2025-04-05
+3		Club Classics (Satisfaction Remix)	Charli XCX, Zephyr			145.00	     	03:27	5A	2025-08-26
+4		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+5		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+6		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+7		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+8		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+9		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+10		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+11		Empress	Imanu	Unfold		172.00	     	02:40	2A	2025-05-08
+12		Hello goodbye (jungle gym flip)	dakist4t			171.00	     	03:00	9B	2025-07-29
+13		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+14		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+15		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+16		Supersonic	Noisia	Closer	Electronic	172.00	     	02:45	7B	2024-11-11
+17		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+18		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18

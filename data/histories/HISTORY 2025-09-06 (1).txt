@@ -1,0 +1,45 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+2		Poker Face (Club Edit)	Lupage Joe Kox	Poker Face		148.00	     	02:37	1A	2025-04-27
+3		SKY (SPEED GARAGE REMIX)	Playboi Carti			150.00	     	03:12	8A	2025-04-19
+4		The Days - NOTION Remix	nikko Jynxx	The Days - NOTION Remix		141.75	     	03:43	10A	2025-02-13
+5		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+6		HOT TO GO!	Chappell Roan	The Rise and Fall of a Midwest Princess		140.00	     	03:04	2B	2025-05-04
+7		Boy's a liar Pt. 2	PinkPantheress Ice Spice	Boy's a liar Pt. 2		133.00	     	02:11	7B	2025-05-10
+8		Where's Your Head At Dub	Callto			140.00	     	03:20	9A	2025-08-26
+9		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+10		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+11		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+12		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+13		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+14		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+15		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+16		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+17		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+18		MARTILLANDO	El Alfa Noriel	EL REY DEL DEMBOW		112.00	     	03:23	5A	2025-08-05
+19		TiK ToK	Kesha	Animal (Expanded Edition)		120.00	     	03:19	6B	2025-04-05
+20		I Love It (feat. Charli XCX)	Icona Pop Charli xcx	I Love It (feat. Charli XCX)		126.00	     	02:35	3B	2025-03-21
+21		Mission： Impossible - Theme	Tiesto			127.00	     	04:48	6A	2025-09-06
+22		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+23		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+24		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+25		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+26		Cannibal	Kesha	Cannibal (Expanded Edition)		130.00	     	03:14	4A	2025-04-05
+27		I Kissed A Girl	Katy Perry	One Of The Boys		130.00	     	02:59	8A	2025-04-05
+28		Beauty And A Beat	Justin Bieber Nicki Minaj	Believe		128.00	     	03:48	8B	2025-04-06
+29		Timber	Pitbull Kesha	Timber		130.00	     	03:24	1B	2025-05-11
+30		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+31		Gangnam Style	Psy	Gangnam Style		132.00	     	03:39	10A	2025-03-03
+32		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+33		No Hands (feat. Roscoe Dash & Wale)	Waka Flocka Flame	Flockaveli		131.50	     	04:23	12B	2025-05-10
+34		FE!N (Techno Remix)	Travis Scott			130.50	     	03:50	12A	2025-03-03
+35		212	Azealia Banks Lazy Jay	1991 - EP		126.00	     	03:23	12A	2025-03-10
+36		Starships	Nicki Minaj	Pink Friday ... Roman Reloaded (Deluxe)		125.00	     	03:30	10A	2025-05-06
+37		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+38		Die Young	Kesha	Feel Good Friday		128.00	     	03:33	12B	2025-04-05
+39		Super Bass	Nicki Minaj	Pink Friday (Complete Edition)		127.00	     	03:20	1B	2025-04-27
+40		Mo Bamba	Sheck Wes	MUDBOY		146.00	     	03:03	9A	2025-03-21
+41		Don't Stop Believin' (2024 Remaster)	Journey	Greatest Hits (2024 Remaster)		120.00	     	04:10	12B	2025-04-06
+42		Forgiveness of Blood	Tensal	Forgiveness of Blood		138.00	     	06:39	6A	2025-04-07
+43		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+44		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12

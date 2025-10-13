@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+2		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+3		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+4		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+5		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+6		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+7		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+8		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+9		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26

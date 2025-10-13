@@ -1,0 +1,10 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+3		Hallucinate	Dua Lipa	Future Nostalgia		122.00	     	03:28	3A	2025-04-27
+4		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+5		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+6		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+7		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+8		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+9		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08

@@ -1,0 +1,23 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+2		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+3		BerwynGesaffNeighbours	Fred again.. Berwyn	USB		102.00	     	02:03	7A	2024-12-12
+4		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+5		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+6		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+7		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+8		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+9		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+10		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+11		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+12		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+13		Scream & Shout	will.i.am Britney Spears	#willpower (Deluxe)		130.00	     	04:12	6A	2025-03-10
+14		Party Rock Anthem	LMFAO Lauren Bennett GoonRock	Sorry For Party Rocking (Deluxe Version)		130.00	     	04:22	4A	2025-03-03
+15		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+16		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+17		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+18		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+19		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+20		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+21		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+22		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28

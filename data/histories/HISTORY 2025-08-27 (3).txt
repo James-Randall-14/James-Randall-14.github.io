@@ -1,0 +1,98 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+2		The lights on your face.	The Caracal Project	The lights on your face. (DROELOE Remix)		175.00	     	03:03	7A	2025-01-29
+3		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+4		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+5		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+6		Get Into It (Yuh)	Doja Cat	Planet Her		92.00	     	02:18	1A	2025-03-13
+7		Paper Planes	M.I.A.	Paper Planes		86.00	     	03:25	7A	2025-03-10
+8		Umbrella	Rihanna JAY Z	Good Girl Gone Bad: Reloaded		87.00	     	04:36	3B	2025-03-13
+9		Rule The World (Everybody)	Tiësto Tears For Fears NIIKO X SWAE GUDFELLA	Rule The World (Everybody)		128.00	     	02:52	11A	2025-03-21
+10		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+11		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+12		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+13		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+14		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+15		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+16		S&M	Rihanna	Loud		128.00	     	04:03	2A	2025-03-03
+17		Somebody That I Used To Know (Tim Hox Remix)	Gotye			128.00	     	02:47	8A	2025-04-27
+18		Instinct	BB Diamond	Instinct		124.00	     	03:53	8A	2025-04-11
+19		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+20		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+21		Rally House	Prod. DTM	Rally House		122.00	     	01:36	8A	2025-07-29
+22		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+23		Death to the IDF (Bass)				132.00	     	01:56	11A	2025-07-18
+24		Creepy Crawlers (feat. Golemm)	BUGCORE	Creepy Crawlers (feat. Golemm)		133.00	     	03:09	11A	2025-08-05
+25		I CAN’T LOSE YOU	Confidence Man	I CAN'T LOSE YOU		136.00	     	02:35	11A	2025-08-05
+26		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+27		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+28		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+29		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+30		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+31		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+32		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+33		Fire	Imanu			128.00	     	03:31	9A	2025-05-08
+34		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+35		Celeste	Imanu	Celeste		134.00	     	03:58	8A	2025-05-08
+36		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+37		Say U Luv Me (salute Remix)	Karma Kid			137.00	     	04:31	8A	2025-04-19
+38		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+39		Where's Your Head At Dub	Callto			140.00	     	03:20	9A	2025-08-26
+40		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+41		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+42		4 Morant (Better Luck Next Time)	Com Truise	Brokendate	Electronic	85.00	     	02:51	1A	2024-11-17
+43		pussypodium (Slowed)	Akiaura LONOWN	pussypodium (Slowed)	Electronic	93.07	     	03:31	12A	2024-11-17
+44		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+45		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+46		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+47		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+48		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+49		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+50		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+51		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+52		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+53		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+54		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+55		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+56		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+57		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+58		Hush	Borne Alexis B	Hush		140.00	     	02:03	7A	2025-06-04
+59		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+60		Out of Control	Taiki Nulight Borne	Out Of Control		140.00	     	03:41	4A	2025-06-04
+61		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17
+62		Give It To Me	Borne	Give It To Me		140.00	     	02:17	5A	2025-06-04
+63		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+64		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+65		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+66		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+67		Disappear	Sidewalks and Skeletons	White Light		90.00	     	02:50	9A	2024-12-12
+68		Get Into It (Yuh)	Doja Cat	Planet Her		92.00	     	02:18	1A	2025-03-13
+69		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+70		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+71		NISSAN ALTIMA	Doechii	NISSAN ALTIMA		117.00	     	02:08	5B	2025-04-05
+72		360	Charli Xcx	Brat and it’s completely different but also still brat	Dance	120.00	     	02:13	8B	2024-11-11
+73		Rally House	Prod. DTM	Rally House		122.00	     	01:36	8A	2025-07-29
+74		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+75		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+76		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+77		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+78		saving flowers	salute Rina Sawayama	saving flowers		132.00	     	03:30	3A	2025-05-08
+79		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+80		The Less I Know The Better	Mau P	The Less I Know The Better		128.00	     	02:56	12A	2025-03-13
+81		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+82		Alter Ego	Doechii JT	Alter Ego		127.00	     	03:24	7A	2025-04-05
+83		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+84		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+85		Club classics featuring bb trickz	Charli Xcx Bb Trickz	Brat and it’s completely different but also still brat	Dance	130.98	     	02:54	3B	2024-11-11
+86		NUEVAYoL	Bad Bunny	DeBÍ TiRAR MáS FOToS		118.00	     	03:03	8A	2025-04-05
+87		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+88		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+89		Deli	Ice Spice	Like..? (Deluxe)		140.00	     	02:06	10A	2025-05-10
+90		Death to the IDF (Bass)				132.00	     	01:56	11A	2025-07-18
+91		Death to the IDF (Bass)				132.00	     	01:56	11A	2025-07-18
+92		Rumble	Skrillex Fred again.. Flowdan	USB		140.00	     	02:26	11A	2024-12-12
+93		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+94		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+95		Club classics (WINK Edit)	Charli Xcx			140.00	     	03:00	1A	2025-04-19
+96		Firestarter (Empirion Mix)	The Prodigy			140.01	     	07:51	3A	2025-04-12
+97		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12

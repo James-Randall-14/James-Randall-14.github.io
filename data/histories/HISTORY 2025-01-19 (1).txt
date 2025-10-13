@@ -1,0 +1,3 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+2		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12

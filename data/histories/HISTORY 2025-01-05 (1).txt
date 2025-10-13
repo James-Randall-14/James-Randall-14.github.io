@@ -1,0 +1,23 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Mist (Original Mix)	Pessimist	Pagans		126.00	     	06:44	9B	2025-01-03
+2		Eresidae	Flogo	Acamantis EP		129.00	     	07:28	11A	2025-01-03
+3		Day Of Riddance	CW/A	Day Of Riddance		126.00	     	05:08	6B	2025-01-03
+4		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+5		Astrous (Original Mix)	Pessimist	Pagans		126.00	     	09:15	1A	2025-01-03
+6		Mass Control	Exium	Mass Control		127.00	     	05:40	7A	2025-01-03
+7		Absolute Magnitude	Exium	A Sensible Alternative to Emotion		128.00	     	05:53	2B	2025-01-03
+8		Opticon	Tensal	Unequal Struggle EP		128.00	     	06:01	8B	2025-01-03
+9		Monolith	Exium	Mass Control		128.00	     	05:07	2A	2025-01-03
+10		Deep Learning	Symmetrical Behaviour	Deep Learning		130.00	     	06:05	1A	2025-01-03
+11		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+12		Lost	Octaviou	Night in the Woods		136.00	     	06:29	11A	2025-01-03
+13		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+14		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+15		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+16		Walpurgis Night	I Hate Models Zanias	Midnight Cults		132.00	     	08:54	10A	2025-01-03
+17		Warehouse Memories	I Hate Models	Warehouse Memories		136.00	     	07:26	7A	2025-01-03
+18		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+19		Poison	C-System	Poison		138.00	     	05:35	2A	2025-01-03
+20		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+21		Deep Space	Alignment	Close Your Eyes EP	Techno	148.00	     	05:37	7A	2024-12-01
+22		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03

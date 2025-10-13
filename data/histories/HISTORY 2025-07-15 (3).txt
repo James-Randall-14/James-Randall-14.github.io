@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+2		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+3		Club classics	Charli Xcx	Brat and it’s completely different but also still brat	Dance	145.00	     	02:33	9A	2024-11-11
+4		Last Jungle	Sub Focus	Sub Focus		145.00	     	03:39	5B	2025-06-17
+5		Yosemite	Kettama Interplanetary Criminal	Yosemite		144.00	     	04:26	4B	2025-03-21
+6		Werewolf Disco Club	I Hate Models	Werewolf Disco Club		146.00	     	09:23	8A	2025-02-13
+7		Die Welt Brennt	Klangkuenstler Obernauer	Die Welt Brennt		150.00	     	05:10	8A	2025-02-06
+8		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+9		Forgiveness of Blood	Tensal	Forgiveness of Blood		138.00	     	06:39	6A	2025-04-07
+10		Two Steps From Heaven	I Hate Models	Disco Inferno 01		145.00	     	09:27	9A	2025-01-03
+11		Applause	Lady Gaga	ARTPOP		140.00	     	03:32	6A	2025-04-05

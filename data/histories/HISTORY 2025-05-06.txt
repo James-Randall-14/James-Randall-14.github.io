@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+2		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+3		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+4		Poetry	Stella Bossi Auk.	Poetry		133.00	     	03:31	5A	2025-02-06
+5		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+6		Go Back	John Summit Sub Focus Julia Church	Go Back (Kyle Watson Remix)		130.00	     	03:46	6A	2025-02-05
+7		Day Of Riddance	CW/A	Day Of Riddance		126.00	     	05:08	6B	2025-01-03
+8		Cybernetic Culture by CCRU : A Reading	Acid Horizon	Acid Horizon	Jungle	120.00	     	08:55	7B	2024-11-11
+9		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+10		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+11		Could This Be (Original)	Noisia	Split the Atom (Special Edition)	Drum & Bass	172.00	     	04:05	1B	2024-11-11

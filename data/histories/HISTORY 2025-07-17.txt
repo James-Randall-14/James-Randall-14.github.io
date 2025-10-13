@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		leavemealone	Fred again.. Baby Keem	USB		87.00	     	03:42	7A	2024-12-12
+2		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+3		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+4		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+5		family ties	Baby Keem Kendrick Lamar	family ties		116.00	     	04:12	5A	2025-05-10
+6		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+7		All You Children	Jamie xx The Avalanches	All You Children		120.00	     	04:14	2A	2025-02-13
+8		Satisfaction	David Guetta Benny Benassi	Satisfaction		126.00	     	02:35	3A	2025-04-11
+9		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+10		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+11		GLASSJAW (VIP)	Yaego	TELEVISTA		108.78	     	03:59	6A	2025-03-21
+12		Drawn Out Like An Ache	Lorn	Remnant		120.00	     	04:10	12A	2024-11-11
+13		Moth To A Flame	Swedish House Mafia The Weeknd	Paradise Again		120.00	     	03:54	5A	2025-04-07
+14		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+15		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+16		Little Things Mashup	Jorja Smith			127.00	     	02:11	1A	2025-04-19
+17		Road to Nowhere	Kas:st	Road to Nowhere		127.00	     	07:14	2A	2024-12-29

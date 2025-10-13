@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		The Shape of Hands	Ducerey Ada Nexino	Experiments in Disappearance		126.00	     	06:41	1A	2025-01-03
+2		Deep Learning	Symmetrical Behaviour	Deep Learning		130.00	     	06:05	1A	2025-01-03
+3		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+4		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+5		Creepy Crawlers (feat. Golemm)	BUGCORE	Creepy Crawlers (feat. Golemm)		133.00	     	03:09	11A	2025-08-05

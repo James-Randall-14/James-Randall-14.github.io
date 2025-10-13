@@ -1,0 +1,22 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		A Taste of Hope	Imanu	A Taste of Hope (Hallowvale)		120.00	     	03:48	4A	2025-05-08
+2		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+3		Abracadabra	Lady Gaga	Abracadabra		126.00	     	03:43	4A	2025-03-10
+4		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+5		Can’t Fight The Feeling	Matroda	Can’t Fight The Feeling		126.00	     	02:51	2A	2025-04-26
+6		Death to the IDF (Techno)				185.00	     	03:17	8A	2025-07-18
+7		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+8		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+9		Police State	Pussy Riot	Police State		93.00	     	02:40	8A	2025-03-10
+10		Get Into It (Yuh)	Doja Cat	Planet Her		92.00	     	02:18	1A	2025-03-13
+11		MONTERO (Call Me By Your Name)	Lil Nas X	MONTERO (Call Me By Your Name)		89.50	     	02:17	12A	2025-03-13
+12		Good Form (Remix)	Nicki Minaj Lil Wayne	Queen (Deluxe)		96.50	     	03:57	8A	2025-03-13
+13		Like That (feat. Gucci Mane)	Doja Cat Gucci Mane	Hot Pink		106.00	     	02:43	11A	2025-03-13
+14		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13
+15		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+16		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+17		Paparazzi	Lady Gaga	The Fame		115.00	     	03:28	4B	2025-04-05
+18		Poker Face	Lady Gaga	The Fame		119.00	     	03:57	1A	2025-04-05
+19		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+20		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+21		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06

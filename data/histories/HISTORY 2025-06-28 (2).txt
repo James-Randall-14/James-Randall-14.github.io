@@ -1,0 +1,28 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+2		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+3		Boss Bitch	Doja Cat	Boss Bitch		126.00	     	02:14	2A	2025-05-10
+4		Bandit (Club Mix)	Don Toliver Acraze	Bandit (Club Mix)		130.00	     	02:48	7A	2025-04-27
+5		Brain On Drugs	AC Slater Curbi No/Me	Brain On Drugs		129.00	     	03:34	7A	2025-05-08
+6		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+7		Atmosphere (NGHT KLUB Remix)	FISHER			126.00	     	03:00	7A	2025-04-19
+8		I Only Smoke When I Drink	nimino	I Only Smoke When I Drink		127.00	     	03:18	10A	2025-02-05
+9		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+10		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+11		Heads Will Roll	Yeah Yeah Yeahs	Heads Will Roll (A-Track Remix)		132.00	     	06:23	1A	2025-03-10
+12		TAKE IT OFF	Aatig FISHER	TAKE IT OFF		127.00	     	03:14	2A	2024-12-29
+13		Can’t Fight The Feeling	Matroda	Can’t Fight The Feeling		126.00	     	02:51	2A	2025-04-26
+14		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+15		Forget It	Matroda	Forget It		123.00	     	02:53	6A	2025-05-10
+16		Legacy	John Summit VLTRA (IT)	Legacy		128.00	     	03:50	9A	2025-04-26
+17		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11
+18		Lioness	Swedish House Mafia Niki & The Dove	Lioness		128.00	     	02:52	11A	2025-03-21
+19		Time	Stanton Warriors	Time		128.00	     	04:07	11A	2025-03-13
+20		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+21		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+22		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+23		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+24		Buried	Imanu			126.00	     	04:13	6A	2025-05-08
+25		Midnight (Jon Hopkins Remix)	Coldplay	Midnight (Jon Hopkins Remix)	Rock	127.00	     	10:05	2A	2024-11-11
+26		Singularity (Edit)	Jon Hopkins	Singularity (Edit)	Electronic	133.00	     	04:27	2A	2024-11-11
+27		Emerald Rush	Jon Hopkins	Singularity	Electronic	107.00	     	05:36	12A	2024-11-11

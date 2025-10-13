@@ -1,0 +1,6 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Habits (Stay High)	Tove Lo	Queen Of The Clouds		110.00	     	03:29	7A	2025-03-21
+2		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+3		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+4		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+5		ES19.2	Snts	SNTS		129.00	     	06:04	12A	2025-02-13

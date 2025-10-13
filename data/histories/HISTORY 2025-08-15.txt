@@ -1,0 +1,14 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+2		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+3		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+4		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+5		Tokyo Drift (XNY Edit)	Teriyaki Boyz			133.00	     	02:15	3A	2025-06-04
+6		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19
+7		Say U Luv Me (salute Remix)	Karma Kid			137.00	     	04:31	8A	2025-04-19
+8		50s (headiokart remix)	Headie One			140.00	     	02:46	8A	2025-04-19
+9		flight fm	Joy Orbison	flight fm		139.53	     	04:07	7A	2025-04-11
+10		Boy's a liar Pt. 2	PinkPantheress Ice Spice	Boy's a liar Pt. 2		133.00	     	02:11	7B	2025-05-10
+11		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+12		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+13		Rock My World	Acraze Puku	Rock My World		128.00	     	03:18	11A	2025-04-11

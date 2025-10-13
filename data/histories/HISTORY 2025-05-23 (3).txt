@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		CHROMA 008 TANGZ	Bicep Eliza	CHROMA 008		163.00	     	05:12	7A	2025-03-21
+2		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+3		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+4		CATALYST	Droeloe Imanu	CATALYST		166.01	     	03:26	7B	2025-05-08
+5		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+6		BOTHERED!	Femtanyl			160.00	     	02:45	3B	2025-04-19
+7		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+8		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+9		through the light	dracodraco	through the light	Dance	165.00	     	01:36	4B	2024-11-17
+10		Katamari	Femtanyl	Chaser - Ep		170.00	     	02:38	3B	2024-11-17
+11		Dream Roller	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	165.00	     	06:47	5A	2024-11-06

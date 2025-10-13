@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		EXCESS	HEALTH Perturbator	DISCO4 :: PART II		100.00	     	04:24	1B	2025-07-18
+2		EXCESS	HEALTH Perturbator	DISCO4 :: PART II		100.00	     	04:24	1B	2025-07-18
+3		Canary Wharf drift	bassvictim	Basspunk	Dance	92.50	     	02:25	5A	2024-11-17
+4		4ÆM	Grimes	Miss Anthropocene (Deluxe Edition)		93.00	     	04:31	7A	2025-03-13

@@ -1,0 +1,46 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+2		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16
+3		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+4		MERTHER	Mau P	MERTHER		128.00	     	03:09	4A	2025-02-05
+5		The Flavor	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	05:16	4A	2024-11-06
+6		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+7		Feel It (Powertools DUB)	Richard Vission	Feel It		130.00	     	04:12	1A	2024-12-28
+8		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+9		Easy for them	Rohaan	Easy for them		140.00	     	02:17	3B	2024-12-25
+10		Dance	Daniel Allan Chopsoe	Noise Pollution		146.01	     	02:05	2B	2025-01-29
+11		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+12		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13
+13		Antireal	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	150.00	     	05:50	2A	2024-11-06
+14		Move You	The Glitch Mob	Move You		150.00	     	04:03	7A	2024-12-20
+15		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+16		M3 N Min3	Femtanyl & Danny Brown	M3 N Min3 - Single		150.00	     	02:11	11A	2024-11-17
+17		Warehouse Artillery	JOE SANE	Warehouse Artillery	Dance	145.00	     	08:03	11A	2024-11-29
+18		Fine Day Anthem	Skrillex Boys Noize Opus III	Fine Day Anthem		138.00	     	03:13	11A	2025-02-05
+19		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+20		Lights Out (feat. Fred again..) [HAAi Remix]	Romy HAAi Fred again..	Lights Out (feat. Fred again..) [HAAi Remix]		133.00	     	06:15	10A	2025-01-06
+21		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+22		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+23		The Flavor (Drumskull Remix)	The Glitch Mob Drumskull	All The People Vol. 2		160.00	     	06:27	4A	2024-12-20
+24		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+25		Krystle (URL Cyber Palace Mix)	Machine Girl	Wlfgrl	Hip-Hop/Rap	160.00	     	03:36	7A	2024-11-17
+26		Dinner!	Femtanyl	Dinner! - Single		156.00	     	02:16	3A	2024-11-17
+27		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+28		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+29		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+30		Kammy (like i do)	Fred again..	Actual Life 3 (January 1 - September 9 2022)		132.00	     	03:58	6A	2025-01-06
+31		House 3	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	140.00	     	00:13	10A	2024-12-06
+32		Rush	Troye Sivan	Something To Give Each Other		126.00	     	02:36	6A	2025-03-03
+33		Horny	San Pacho Tobehonest	Horny		128.00	     	03:02	11A	2024-12-28
+34		Perfect (Exceeder)	David Guetta mason Princess Superstar	Perfect (Exceeder)		128.00	     	02:32	8A	2024-12-26
+35		Give It to Me	Matt Sassari	Give It to Me		126.00	     	03:30	1A	2024-12-25
+36		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+37		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+38		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03
+39		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+40		Guess featuring billie eilish	Charli Xcx Billie Eilish	Brat and it’s completely different but also still brat	Dance	130.00	     	02:23	8B	2024-11-11
+41		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+42		Mouth to Mouth	Douglas Dare Rival Consoles	Omni		141.00	     	04:05	2B	2025-03-03
+43		Glitter	Suzy Sheer	Glitter	Dance	139.85	     	02:22	1A	2024-11-17
+44		OUTTAHISMIND	Daniel Allan Port London	Noise Pollution		145.00	     	02:09	5B	2025-01-29
+45		All the Things She Said	Robin Schulz Timmy Trumpet KOPPY	All the Things She Said		150.00	     	02:45	4B	2025-02-13

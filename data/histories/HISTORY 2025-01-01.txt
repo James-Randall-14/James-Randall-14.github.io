@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+2		Five Hours	Deorro	Five Hours		127.98	     	05:26	6A	2024-12-13
+3		Five Hours	Deorro	Five Hours		127.98	     	05:26	6A	2024-12-13
+4		House 1	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	123.00	     	00:01	1A	2024-12-06
+5		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+6		Breaks 1	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	130.00	     	00:07	7A	2024-12-06
+7		House 1	rekordbox	GROOVE CIRCUIT FACTORY SAMPLES	Loop Samples	123.00	     	00:01	1A	2024-12-06

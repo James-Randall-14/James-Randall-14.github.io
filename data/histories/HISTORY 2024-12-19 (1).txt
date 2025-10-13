@@ -1,0 +1,18 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Red Brick	Yunna	The Arrival - EP		130.00	     	05:04	12A	2024-12-19
+2		Ride Out	Yunna	The Arrival - EP		130.00	     	04:48	9A	2024-12-19
+3		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+4		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+5		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+6		Tears	Skrillex Joker Sleepnet	Quest For Fire		140.00	     	03:05	4A	2024-12-12
+7		Break Your Mind	ONHELL Hypho	Break Your Mind		140.00	     	03:29	4A	2024-12-19
+8		Never	Sorza	Pillars		144.00	     	03:36	4A	2024-12-19
+9		Visions of what could be	Sorza	Pillars		145.00	     	03:48	10A	2024-12-19
+10		I'm here	Sorza	Pillars		150.00	     	03:54	3A	2024-12-19
+11		Black Honey	Yunna	The Arrival - EP		150.00	     	04:55	9A	2024-12-19
+12		Feeling So Real 2024	Moby	Feeling So Real 2024	Pop	159.93	     	03:22	8A	2024-11-30
+13		White Crown	Yunna	The Arrival - EP		160.00	     	03:47	8B	2024-12-19
+14		Dream Roller	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	165.00	     	06:47	5A	2024-11-06
+15		Pale Death	Yunna	The Arrival - EP		160.00	     	05:42	7A	2024-12-19
+16		E-Motion	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	162.00	     	05:38	4A	2024-11-06
+17		Dub Session (Neekeetone Remix)	Ternion Sound	Digital Artifice // Recompiled	Dance	170.00	     	03:57	1A	2024-11-11

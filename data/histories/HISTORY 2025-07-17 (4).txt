@@ -1,0 +1,5 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		So What If I'm A Freak	Snow Strippers			134.00	     	02:26	9A	2024-12-01
+2		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+3		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+4		Europa	Yaego	87.6 Fm		150.39	     	03:49	10A	2024-11-17

@@ -1,0 +1,15 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+2		Edge of Seventeen	Wuki	Edge of Seventeen		128.00	     	02:44	4A	2024-12-22
+3		IT GIRL	Aliyah's Interlude	IT GIRL		125.00	     	02:41	5A	2025-04-06
+4		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+5		Talk talk featuring troye sivan	Charli Xcx Troye Sivan	Brat and it’s completely different but also still brat	Dance	130.00	     	02:53	6A	2024-11-11
+6		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+7		Fuck My Computer	Ninajirachi	Fuck My Computer		136.00	     	03:10	5B	2025-08-05
+8		Belden Towers	Starjunk 95			132.00	     	02:48	5A	2025-04-19
+9		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+10		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+11		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+12		drop	Sipper	drop		130.30	     	03:26	8A	2025-03-03
+13		Hot Hits	RoRo	Hot Hits		130.00	     	02:35	8A	2025-03-03
+14		Welcome To My Island	Caroline Polachek Charli xcx	Welcome To My Island (Remix)		134.38	     	03:22	8A	2025-03-03

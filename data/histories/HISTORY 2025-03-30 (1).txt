@@ -1,0 +1,3 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+2		Howler	Ternion Sound	Digital Artifice		140.00	     	04:39	12B	2024-11-11

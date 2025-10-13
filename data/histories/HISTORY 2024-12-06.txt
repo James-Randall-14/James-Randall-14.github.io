@@ -1,0 +1,20 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Drawn Out Like An Ache	Lorn	Remnant		120.00	     	04:10	12A	2024-11-11
+2		stuck	Anna Luna	stuck	Dance	120.00	     	01:58	10B	2024-11-17
+3		Please Save My Earth	Yaego	87.6 Fm		121.87	     	02:10	5A	2024-11-17
+4		Open Eye Signal	Jon Hopkins	Open Eye Signal (George FitzGerald Remix)	Electronic	123.00	     	05:38	4A	2024-11-11
+5		Luminous Spaces	Jon Hopkins	Luminous Spaces	Electronic	123.00	     	07:11	4B	2024-11-11
+6		Everything Connected	Jon Hopkins	Singularity	Electronic	125.00	     	10:30	8B	2024-11-11
+7		Orca	Bicep	Bicep	Electronic	123.00	     	04:33	10A	2024-11-11
+8		Bicycle	Yaego & Jas	Planet Chaser		125.00	     	02:08	12B	2024-11-17
+9		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+10		Music Sounds Better With You	Alan Braxe Stardust Benjamin Diamond Thomas Bangalter	Music Sounds Better With You	House	124.21	     	06:43	4A	2024-11-20
+11		Palm Beach Banger	Fisher	Palm Beach Banger	House	126.00	     	03:53	4A	2024-11-17
+12		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+13		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+14		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+15		Detroit	Ternion Sound	Digital Artifice		140.00	     	04:16	10B	2024-11-11
+16		dataDyne	Ternion Sound	Digital Artifice		140.00	     	03:48	9A	2024-11-11
+17		Artifice	Ternion Sound	Digital Artifice		140.00	     	04:15	12A	2024-11-11
+18		Cd Romance	Yaego	87.6 Fm		134.45	     	02:51	1A	2024-11-17
+19		I FEEL LIKE DANCING	Hardwell	I FEEL LIKE DANCING	Dance	132.00	     	03:45	4A	2024-11-16

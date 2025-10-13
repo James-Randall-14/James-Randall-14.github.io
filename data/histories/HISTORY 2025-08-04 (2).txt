@@ -1,0 +1,12 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+2		wired0uttt	violet			153.00	     	03:11	10A	2025-07-29
+3		You Got Me	Yunna	All The People Vol. 1		150.00	     	04:35	12B	2025-06-17
+4		I Just Wanna Rock (Restricted Edit)	Playboi Carti			150.00	     	02:38	2A	2025-07-29
+5		365 featuring shygirl	Charli Xcx Shygirl	Brat and it’s completely different but also still brat	Dance	137.73	     	02:01	7B	2024-11-11
+6		sweetness	yoshienjoyer	sweetness		148.00	     	03:43	5B	2025-07-29
+7		Kuliki	Locked Club			143.48	     	03:08	5B	2025-04-12
+8		Counting (Taiki Nulight Remix)	Hamdi	Counting Remixes		142.00	     	03:06	12A	2025-06-04
+9		Eeze Up	The Glitch Mob	Eeze Up		155.00	     	03:24	4A	2025-06-17
+10		K1LL SOMEBODY	Tanger	K1LL SOMEBODY		174.00	     	02:16	1A	2025-04-19
+11		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08

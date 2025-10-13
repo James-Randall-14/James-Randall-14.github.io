@@ -1,0 +1,19 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Fuck My Computer	Ninajirachi	Fuck My Computer		136.00	     	03:10	5B	2025-08-05
+2		I CAN’T LOSE YOU	Confidence Man	I CAN'T LOSE YOU		136.00	     	02:35	11A	2025-08-05
+3		thicc	Shygirl Cosha Club Shy	thicc		130.00	     	03:42	7A	2025-04-27
+4		I CAN’T LOSE YOU	Confidence Man	I CAN'T LOSE YOU		136.00	     	02:35	11A	2025-08-05
+5		MORNING	JEV	MORNING		130.00	     	03:01	9A	2025-04-19
+6		Run Away With You	salute No Rome	Shield		139.00	     	04:12	1A	2025-05-04
+7		Just For Me (salute Edit)	pinkpantheress			136.00	     	03:58	4A	2025-05-04
+8		Like To Complicate	Snow Strippers	April Mixtape 3		132.00	     	03:14	5A	2025-01-03
+9		Archangel	Burial			130.00	     	04:04	5A	2025-03-06
+10		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+11		words (Higgo Remix)	Higgo			134.00	     	02:53	12A	2025-04-19
+12		Sweet Dreams (Are Made of This)	Eurythmics Annie Lennox Dave Stewart	Sweet Dreams (Are Made Of This)		125.00	     	03:36	5A	2025-06-04
+13		Stateside	pinkpantheress			123.42	     	02:48	3A	2025-05-11
+14		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17
+15		Creepy Crawlers (feat. Golemm)	BUGCORE	Creepy Crawlers (feat. Golemm)		133.00	     	03:09	11A	2025-08-05
+16		Thief in the Night (salute Remix)	DJ Q Hans Glader	Thief in the Night (Remixes)		135.00	     	03:16	12A	2025-05-04
+17		PASILDA DUB	Hutcher			135.00	     	04:59	6A	2025-07-29
+18		Here Goes	Higoo			137.00	     	04:43	2A	2025-04-19

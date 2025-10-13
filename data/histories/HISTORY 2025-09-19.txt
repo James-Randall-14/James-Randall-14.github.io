@@ -1,0 +1,27 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08
+2		Blow Out	Overmono	Blow Out		136.00	     	03:36	8A	2025-05-08
+3		ESO Raider	Former	GRONINGEN / ESO Raider		140.00	     	02:48	8A	2025-05-08
+4		Darkness & Movement - Skin Teeth Darkness Remix	Lucas/Skin Teeth	Sensational Breaks & Beats, Vol. 15		136.00	     	05:49	12A	2025-06-17
+5		Rigid	Rosa Anschütz	Rr4		135.00	     	06:53	12A	2025-02-05
+6		Misery Whip (Tommy Four Seven Remix)	Rhys Fulber	Baut Mit!		135.00	     	05:17	11A	2025-01-05
+7		Impulsive Behavior	Under Black Helmet	I Was Laid-Back A Sinner Of Sorts EP		133.00	     	06:19	12A	2025-03-21
+8		ES19.2	Snts	SNTS		129.00	     	06:04	12A	2025-02-13
+9		Red Armor	Niki Istrefi	EUROMANTIC001		140.00	     	04:40	8A	2025-02-06
+10		ES19.4	Snts	SNTS		128.00	     	06:17	7A	2025-02-13
+11		Mass Control	Exium	Mass Control		127.00	     	05:40	7A	2025-01-03
+12		ES19.4	Snts	SNTS		128.00	     	06:17	7A	2025-02-13
+13		Vertical Ice	Polar Inertia	Kinematic Optics EP		133.00	     	11:58	8A	2025-02-13
+14		Burned Hand	Shlømo	The Rapture		129.00	     	06:49	4A	2025-02-13
+15		Depth Charge	The Glitch Mob	Ctrl Alt Reality	Drum & Bass	135.00	     	06:34	4A	2024-11-06
+16		Signal Catcher	Dagga	Gutter Trax 2		134.00	     	04:35	5A	2025-06-17
+17		Kolfax	O'Flynn Frazer Ray	Shimmer		135.00	     	05:18	5A	2025-06-17
+18		Animal Mother	Former	Hollow Eye		135.00	     	03:47	9A	2025-05-08
+19		Walpurgis Night	I Hate Models Zanias	Midnight Cults		132.00	     	08:54	10A	2025-01-03
+20		Embata	Broken Robot	Kachka		136.00	     	04:17	6A	2024-12-12
+21		Forgiveness of Blood	Tensal	Forgiveness of Blood		138.00	     	06:39	6A	2025-04-07
+22		Smooth Mind (Original Mix)	Marco Bailey Sigvard	Smooth Mind EP	Electronic	140.00	     	05:08	6A	2024-12-01
+23		Pressure	Broken Robot	Pressure		134.00	     	06:12	11A	2024-12-12
+24		Daydream	I Hate Models	Warehouse Memories		136.00	     	07:43	11A	2025-01-03
+25		The Last Goodbye (feat. Bettye LaVette)	ODESZA Bettye LaVette	Spinback Remixes		134.00	     	02:43	11A	2024-12-26
+26		Creepy Crawlers (feat. Golemm)	BUGCORE	Creepy Crawlers (feat. Golemm)		133.00	     	03:09	11A	2025-08-05

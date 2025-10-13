@@ -1,0 +1,17 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		BerwynGesaffNeighbours	Fred again.. Berwyn	USB		102.00	     	02:03	7A	2024-12-12
+2		Goth	Sidewalks and Skeletons	White Light		115.00	     	03:27	3B	2024-12-12
+3		iseeghosts! [waitaminute]	yaego skrta	iseeghosts! [waitaminute]	Dance	115.00	     	03:33	6A	2024-11-17
+4		B2b	Charli Xcx	Brat and it’s completely different but also still brat	Dance	116.00	     	02:58	2A	2024-11-11
+5		XVI	Akiaura LONOWN DJ Pointless	XVI	Electronic	117.92	     	04:04	2A	2024-11-17
+6		BRAND NEW BITCH	Cobrah	BRAND NEW BITCH	Dance	123.00	     	03:16	2A	2024-11-20
+7		Losing It	Fisher	Losing It	Dance	125.00	     	04:08	6A	2024-11-11
+8		Baby again..	Fred again.. Skrillex Four Tet	USB		127.00	     	05:20	6A	2024-12-12
+9		ILLYGIRL	M.I.A.	/\/\ /\ Y /\ (Deluxe Edition)	Alternative & Indie	125.00	     	02:14	6A	2024-12-01
+10		Wild Inside	The Glitch Mob	Wild Inside		130.00	     	03:37	7A	2024-12-12
+11		Five Hours	Deorro	Five Hours		127.98	     	05:26	6A	2024-12-13
+12		stayinit	Fred again.. Lil Yachty Overmono	USB		134.00	     	04:35	6A	2024-12-12
+13		When I Push (Edit)	Layton Giordani Eli Brown offaiah	When I Push (Edit)	Electronic	134.00	     	03:33	9A	2024-11-16
+14		Paradise Circus	Massive Attack Hope Sandoval	Heligoland (Bonus Edition)	Trip Hop	136.00	     	04:44	4A	2024-11-11
+15		Von dutch	Charli Xcx	Brat and it’s completely different but also still brat	Dance	130.00	     	02:44	4A	2024-11-11
+16		take my soul (club edit)	ilykimchi	agony	Dance	131.00	     	01:57	11A	2024-11-17

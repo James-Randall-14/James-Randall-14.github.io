@@ -1,0 +1,8 @@
+#	Artwork	Track Title	Artist	Album	Genre	BPM	Rating	Time	Key	Date Added
+1		Sorry I Am Late (Pig&Dan Remix)	Kollektiv Turmstrasse	Sorry I Am Late (Remixes)		125.00	     	08:05	11A	2025-03-21
+2		LOVESICK, CANNIBAL!	femtanyl	LOVESICK, CANNIBAL!		189.02	     	01:56	8A	2025-04-19
+3		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
+4		All Too Late	Imanu			172.00	     	03:36	7A	2025-05-08
+5		Bozo Rockers	The UpBeats	Still I Fall / Bozo Rockers	Drum & Bass	174.00	     	02:38	5B	2024-11-29
+6		Empress	Imanu	Unfold		172.00	     	02:40	2A	2025-05-08
+7		Wild Flowers	ring noord Sleepnet Former	Wild Flowers		172.00	     	05:23	9A	2025-05-08
