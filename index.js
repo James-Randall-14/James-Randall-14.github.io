@@ -1,79 +1,73 @@
 import Graph from "graphology";
-import ForceAtlas2Layout from "graphology-layout-forceatlas2/worker";
+import forceAtlas2 from "graphology-layout-forceatlas2";
 import circular from "graphology-layout/circular.js";
 import Sigma from "sigma";
-import fs from "fs";
 
-// Import the graph
-let graph = null
+// ---- Load graph ----
+let graph = null;
 await fetch("/graph.json")
   .then((res) => res.json())
-  .then((data) => {
-     graph = Graph.from(data);
-  });
+  .then((data) => (graph = Graph.from(data)));
 
-circular.assign(graph); // Assign initial layout
+circular.assign(graph);
 
+// ---- Layout settings ----
 let slowdown = 100;
+const settings = {
+  slowDown: slowdown,
+  gravity: 0.05,
+  scalingRatio: 10,
+  barnesHutOptimize: true,
+};
 
-// Set up force simulation settings:
-const layout = new ForceAtlas2Layout(graph, {
-  settings: {
-    slowDown: slowdown, // Damper
-    gravity: 0.5, // Center Attraction
-    scalingRatio: 5, // Repulsion
-  },
-});
-layout.start()
-
-// Taper off motion over time and pause sim
-let lastStep = performance.now();
-
-function windDown() {
-  if (!layout.isRunning) return;
-  const now = performance.now();
-  const dt = now - lastStep;
-  lastStep = now;
-
-  // Increase slowDown gradually over time (like friction increasing)
-  slowdown *= 1.01;
-  layout.settings.slowDown = slowdown;
-
-  // if (slowdown > 10000) {
-  //   layout.stop();
-  //   console.log("Layout stabilized and stopped.");
-  //   return;
-  // }
-  requestAnimationFrame(windDown);
-}
-windDown();
-
-
-
-// Render the graph
-const container = document.getElementById("sigma-container")
-const renderer = new Sigma(graph, container)
-
-let draggedNode = null;
+// ---- State ----
+let settled = false; // instead of stopping the loop
 let isDragging = false;
+let draggedNode = null;
 
+// ---- Persistent layout loop ----
+function layoutLoop() {
+  // Always run — but skip heavy work when fully settled
+  if (!settled || isDragging) {
+    forceAtlas2.assign(graph, { iterations: 1, settings });
 
-// Disable camera movement when dragging
-renderer.getMouseCaptor().on("mousemovebody", (e) => {
-  if (!isDragging || !draggedNode) return;
+    if (!isDragging) {
+      slowdown *= 1.02;
+      settings.slowDown = slowdown;
+      if (slowdown > 8000) {
+        settled = true;
+        console.log("Layout settled.");
+      }
+    }
+  }
 
-  // Convert mouse coords to graph space:
-  const pos = renderer.viewportToGraph(e);
-  graph.setNodeAttribute(draggedNode, "x", pos.x);
-  graph.setNodeAttribute(draggedNode, "y", pos.y);
-  e.preventSigmaDefault(); // stop camera panning
-  e.original.preventDefault();
-});
+  requestAnimationFrame(layoutLoop); // loop forever
+}
+layoutLoop();
 
+// ---- Renderer ----
+const container = document.getElementById("sigma-container");
+const renderer = new Sigma(graph, container);
+
+// ---- Drag handling ----
 renderer.on("downNode", ({ node }) => {
   draggedNode = node;
   isDragging = true;
+  settled = false;       // wake up simulation
+  slowdown = 100;        // reset damping
+  settings.slowDown = slowdown;
   renderer.getMouseCaptor().disableCameraMoves();
+});
+
+renderer.getMouseCaptor().on("mousemovebody", (e) => {
+  if (!isDragging || !draggedNode) return;
+
+  const pos = renderer.viewportToGraph(e);
+  graph.setNodeAttribute(draggedNode, "x", pos.x);
+  graph.setNodeAttribute(draggedNode, "y", pos.y);
+
+  e.preventSigmaDefault();
+  e.original.preventDefault();
 });
 
 renderer.getMouseCaptor().on("mouseup", () => {
@@ -81,5 +75,11 @@ renderer.getMouseCaptor().on("mouseup", () => {
     isDragging = false;
     draggedNode = null;
     renderer.getMouseCaptor().enableCameraMoves();
+
+    // allow the graph to settle again
+    slowdown = 100;
+    settings.slowDown = slowdown;
+    settled = false; // ensure it winds down again
   }
 });
+

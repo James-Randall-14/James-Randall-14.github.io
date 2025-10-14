@@ -18,12 +18,10 @@ const VIBES = new Set(["Industrial", "Gritty", "Clean", "Brat", "Uplifting",
 const INTENSITIES = new Set(["Mellow", "Medium", "Banger"]);
 
 // Mapping from genres to colors for nodes:
-// https://colorkit.co/palette/ff595e-ff924c-ffca3a-c5ca30-52a
-// 675-1982c4-4267ac-6a4c93-d677b8-575757/
-const COLORS = { "Techno": "#4267ac", "House": "#ffca3a", "Hip Hop": "#ff924c",
-                 "Latin": "#ff595e", "Daria": "#d677b8", "Breaks": "#575757",
-                 "Dubstep": "#6a4c93", "Pop": "#52a675", "RnB": "#c5ca30",
-                 "IDM": "#1982c4", "Death Drive": "#222222" };
+const COLORS = { "Techno": "#546E7A", "House": "#373258", "Hip Hop": "#FAF29E",
+                 "Latin": "#98E6A4", "Daria": "#EAC3DE", "Breaks": "#D9D9D9",
+                 "Dubstep": "#0D6986", "Pop": "#83C2DD", "RnB": "#583232",
+                 "IDM": "#BFEDCC", "Death Drive": "#26303E" };
 
 // Set up graph with appropriate settings
 const graph = new Graph(
@@ -63,7 +61,7 @@ function camelotToKey(numStr) {
 
 // From a songs # of plays, calculate its node size
 function processSize(plays) {
-  return plays / 10.0 + 2
+  return plays / 15.0 + 1.75
 }
 
 // Process tags into their subcategories and clean up the strings
@@ -102,7 +100,7 @@ for (const track of library) {
                  "Key": camelotToKey(song.Tonality), "Genre": tags.Genre,
                  "Vibe": tags.Vibe, "Intensity": tags.Intensity, 
                  "Playlists": getPlaylists(song.TrackID), "Play Count": song.PlayCount, 
-                 "Date Added": song.DataAdded };
+                 "Date Added": song.DateAdded };
   // Object containing information about the node representation
   // Using sigma.js conventions.
   const attributes = { "color": COLORS[tags.Genre[0]], "label": song.Name, 
@@ -121,7 +119,8 @@ for (var i = 0; i < rawHistories.length; i++) {
             "Key Change": getKeyDistance(hist[j].Key, hist[j+1].Key),
             "BPM Change": parseFloat(hist[j+1].BPM) - parseFloat(hist[j].BPM),
           } : { ...attr, "Weight": attr.Weight+ 1,
-            "Sessions": [...attr.Sessions, getSessionID(historyFiles[i])]
+            "Sessions": [...attr.Sessions, getSessionID(historyFiles[i])],
+            size: 0.01, color: "#151823"
           }
 })}}
 

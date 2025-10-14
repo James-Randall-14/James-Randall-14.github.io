@@ -13,7 +13,7 @@
   "license": "MIT",
   "author": "James Randall",
   "type": "module",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "process-data": "node process-data.js",
