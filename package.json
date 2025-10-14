@@ -16,11 +16,18 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "process-data": "node process-data.js"
+    "process-data": "node process-data.js",
+    "dev": "vite"
   },
   "dependencies": {
     "csv-parse": "^6.1.0",
     "graphology": "^0.26.0",
+    "graphology-layout": "^0.6.1",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "sigma": "^3.0.2",
     "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "vite": "^7.1.9"
   }
 }

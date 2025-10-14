@@ -1,6 +1,6 @@
 import Graph from 'graphology';
 import { parseStringPromise } from 'xml2js';
-import { parse } from "csv-parse/sync"
+import { parse } from "csv-parse/sync";
 import fs from "fs";
 
 // Camelot wheel, used for converting between numeric and key tonalities.
@@ -61,6 +61,11 @@ function camelotToKey(numStr) {
   return WHEEL[number];
 }
 
+// From a songs # of plays, calculate its node size
+function processSize(plays) {
+  return plays / 10.0 + 2
+}
+
 // Process tags into their subcategories and clean up the strings
 function parseTags(comment) {
   // Split and clean up tags
@@ -101,7 +106,7 @@ for (const track of library) {
   // Object containing information about the node representation
   // Using sigma.js conventions.
   const attributes = { "color": COLORS[tags.Genre[0]], "label": song.Name, 
-                       "size": song.PlayCount, "data" : data};
+                       "size": processSize(song.PlayCount), "data" : data};
   graph.addNode(song.Name, attributes);
 }
 
@@ -112,13 +117,13 @@ for (var i = 0; i < rawHistories.length; i++) {
     graph.updateEdge(
       hist[j]['Track Title'], hist[j+1]['Track Title'], attr => {
         return Object.keys(attr).length == 0 ?
-          { "Count": 1, "Sessions": [getSessionID(historyFiles[i])],
+          { "Weight": 1, "Sessions": [getSessionID(historyFiles[i])],
             "Key Change": getKeyDistance(hist[j].Key, hist[j+1].Key),
-            "BPM Change": parseFloat(hist[j+1].BPM) - parseFloat(hist[j].BPM)
-          } : { ...attr, "Count": attr.Count + 1,
+            "BPM Change": parseFloat(hist[j+1].BPM) - parseFloat(hist[j].BPM),
+          } : { ...attr, "Weight": attr.Weight+ 1,
             "Sessions": [...attr.Sessions, getSessionID(historyFiles[i])]
           }
 })}}
 
 // Export graph to JSON file.
-fs.writeFileSync("./data/graph.json", JSON.stringify(graph.export(), null, 2), "utf8");
+fs.writeFileSync("./public/graph.json", JSON.stringify(graph.export(), null, 2), "utf8");
