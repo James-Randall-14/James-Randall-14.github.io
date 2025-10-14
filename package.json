@@ -17,6 +17,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "process-data": "node process-data.js",
+    "build": "vite build",
     "dev": "vite"
   },
   "dependencies": {
