@@ -4,9 +4,23 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
     <title>Graph Explorer</title>
-    <script type="module" crossorigin src="/assets/index-C-rmy3Na.js"></script>
+  <script type="importmap">
+  {
+    "imports": {
+      "graphology": "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm",
+      "sigma": "https://cdn.jsdelivr.net/npm/sigma@3.0.0/+esm",
+      "graphology-layout-forceatlas2": "https://cdn.jsdelivr.net/npm/graphology-layout-forceatlas2@0.10.1/+esm",
+      "graphology-layout/": "https://esm.sh/graphology-layout@0.6.1/"
+    }
+  }
+  </script>
+    <script type="module" crossorigin src="/assets/index--C1WjNIp.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-aUDrXE7Y.css">
   </head>
+
+
+
+
   <body>
     <div id="app">
       <div id="menu">
@@ -19,7 +33,6 @@
           </label>
         </section>
 
-        <!-- Song info panel -->
         <section id="songPanel" aria-live="polite">
           <h2>Active Song</h2>
           <div class="song-title" id="sp-title">None selected</div>
@@ -69,6 +82,5 @@
 
       <div id="sigma-container"></div>
     </div>
-
   </body>
 </html>
