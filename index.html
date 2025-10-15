@@ -7,20 +7,19 @@
     <link rel="stylesheet" href="/styles.css" />
   </head>
 
-<script type="importmap">
-{
-  "imports": {
-    "graphology": "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm",
-    "sigma": "https://cdn.jsdelivr.net/npm/sigma@3.0.0/+esm",
-    "graphology-layout-forceatlas2": "https://cdn.jsdelivr.net/npm/graphology-layout-forceatlas2@0.10.1/+esm",
-
-    /* prefix map for submodules like graphology-layout/random.js, circular.js, etc. */
-    "graphology-layout/": "https://esm.sh/graphology-layout@0.6.1/"
+  <script type="importmap">
+  {
+    "imports": {
+      "graphology": "https://cdn.jsdelivr.net/npm/graphology@0.25.4/+esm",
+      "sigma": "https://cdn.jsdelivr.net/npm/sigma@3.0.0/+esm",
+      "graphology-layout-forceatlas2": "https://cdn.jsdelivr.net/npm/graphology-layout-forceatlas2@0.10.1/+esm",
+      "graphology-layout/": "https://esm.sh/graphology-layout@0.6.1/"
+    }
   }
-}
-</script>
+  </script>
 
-<script type="module" src="/main.js"></script>
+  <script type="module" src="/main.js"></script>
+
   <body>
     <div id="app">
       <div id="menu">
@@ -82,7 +81,5 @@
 
       <div id="sigma-container"></div>
     </div>
-
-    <script type="module" src="/main.js"></script>
   </body>
 </html>

@@ -424,6 +424,7 @@ renderer.on("clickStage", () => {
   renderer.refresh();
 });
 
+
 // THE COOLEST PART: THE FIZZIX
 const baseFA2 = {
   gravity: 0.06,
@@ -432,8 +433,55 @@ const baseFA2 = {
   linLogMode: true,
 };
 
+// Physics sim config
+const SLOW_INIT = 5;
+const SLOW_RESET = 20;
+const SLOW_MAX = 1000;
+const STARTUP_DELAY_MS = 15000;
+const GROWTH_PER_FRAME = 1.015;
+const FRAME_MS = 1000 / 60;
+const GROWTH_RATE = Math.log(GROWTH_PER_FRAME);
+
+let slowdown = SLOW_INIT;
+let lastInteraction = performance.now();
+let hasInteracted = false;
+
 let tickRaf = null;
-let slowdown = 5;
+let lastTickTime = performance.now();
+
+// helpers to start/stop the sim cleanly
+function startSim() {
+  if (tickRaf == null) {
+    lastTickTime = performance.now();
+    tickRaf = requestAnimationFrame(tick);
+  }
+}
+function stopSim() {
+  if (tickRaf != null) {
+    cancelAnimationFrame(tickRaf);
+    tickRaf = null;
+  }
+}
+
+// returns { atCap } so the tick can decide to stop the sim
+function updateSlowdown(now) {
+  const idle = now - lastInteraction;
+  const delay = hasInteracted ? 0 : STARTUP_DELAY_MS
+  const base = hasInteracted ? SLOW_RESET : SLOW_INIT;
+
+  if (idle <= delay) {
+    slowdown = base;
+    return { atCap: false };
+  }
+
+  // Exponential ramp, frame-rate independent:
+  const dt = now - lastTickTime;
+  const frames = dt / FRAME_MS;
+  const factor = Math.exp(GROWTH_RATE * frames);
+  slowdown = Math.min(SLOW_MAX, slowdown * factor);
+
+  return { atCap: slowdown >= SLOW_MAX - 1e-6 };
+}
 
 function layoutStep() {
   forceAtlas2.assign(graph, {
@@ -442,22 +490,37 @@ function layoutStep() {
   });
 }
 
-function tick() {
+function tick(now) {
+  const { atCap } = updateSlowdown(now);
+  if (atCap) {
+    stopSim(); // freeze when at cap
+    return;
+  }
   layoutStep();
+  lastTickTime = now;
   tickRaf = requestAnimationFrame(tick);
 }
 
 // Start physics on load
 layoutStep();
-tickRaf = requestAnimationFrame(tick);
+startSim();
 
 // Dragging physics
 let isDragging = false, draggedNode = null;
+
+// Reset helper: called on interaction
+function reheat() {
+  hasInteracted = true;
+  lastInteraction = performance.now();
+  slowdown = SLOW_RESET;
+  startSim();
+}
 
 // Event handlers
 renderer.on("downNode", ({ node }) => {
   isDragging = true;
   draggedNode = node;
+  reheat();
 });
 
 renderer.getMouseCaptor().on("mousemovebody", (e) => {
@@ -466,11 +529,13 @@ renderer.getMouseCaptor().on("mousemovebody", (e) => {
   graph.setNodeAttribute(draggedNode, "x", p.x);
   graph.setNodeAttribute(draggedNode, "y", p.y);
   e.preventSigmaDefault();
-  e.original.preventDefault();
+  e.original?.preventDefault();
+  reheat();
 });
 
 renderer.getMouseCaptor().on("mouseup", () => {
   if (!isDragging) return;
   isDragging = false;
   draggedNode = null;
+  reheat();
 });
